@@ -1,1 +1,1 @@
-window.SEARCH_INDEX = [];
+window.SEARCH_INDEX = [{"title": "Documents", "sub": "Category", "url": "/document/", "kw": "documents documents doucments files"}, {"title": "PDF — Documents", "sub": "PDF format", "url": "/document/sample-pdf-file/", "kw": "pdf pdf documents documents document wesdfwesd"}];
