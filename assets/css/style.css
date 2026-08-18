@@ -330,11 +330,15 @@ a:hover {
   display: none;
 }
 
+.search-suggestion:not(:last-child) {
+  border-bottom: 1px solid var(--color-border);
+}
+
 .search-suggestion a {
   display: flex;
   flex-direction: column;
-  gap: 1px;
-  padding: 8px 14px;
+  gap: 2px;
+  padding: 11px 14px;
   color: var(--color-text);
 }
 
@@ -352,6 +356,15 @@ a:hover {
 .search-suggestion-sub {
   font-size: 0.78rem;
   color: var(--color-text-muted);
+}
+
+/* The first suggestion is always the strongest match (site.js sorts by
+   score before rendering) — bolder weight and slightly larger type makes
+   that obvious at a glance instead of every row reading with equal
+   emphasis. */
+.search-suggestion:first-child .search-suggestion-title {
+  font-weight: 800;
+  font-size: 0.95rem;
 }
 
 .search-suggestion-empty {
@@ -849,6 +862,41 @@ table.file-table {
   border-top: none;
 }
 
+.related-formats {
+  margin-top: 44px;
+  padding-top: 28px;
+  border-top: 1px solid var(--color-border);
+}
+
+.related-formats h2 {
+  font-size: 1.1rem;
+  margin: 0 0 12px;
+}
+
+.related-formats ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.related-formats li a {
+  display: inline-block;
+  padding: 7px 14px;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  font-size: 0.88rem;
+  color: var(--color-text);
+  background: #fff;
+}
+
+.related-formats li a:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
 /* ---------- Contact form ---------- */
 
 .contact-form {
@@ -946,6 +994,15 @@ table.file-table {
   font-size: 0.88rem;
 }
 
+.footer-note {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #495057;
+  color: #9a9ea5;
+  font-size: 0.82rem;
+  line-height: 1.6;
+}
+
 .footer-col ul {
   list-style: none;
   margin: 0;
@@ -962,15 +1019,6 @@ table.file-table {
 
 .footer-col a:hover {
   color: #fff;
-}
-
-.lang-select {
-  background: #40464d;
-  color: #fff;
-  border: 1px solid #52585f;
-  border-radius: 6px;
-  padding: 7px 10px;
-  font-size: 0.85rem;
 }
 
 .footer-bottom {
