@@ -43,7 +43,147 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   initSearch();
+  initBundleDownloads();
 });
+
+// ---------------------------------------------------------------- bundle downloads
+//
+// A handful of formats (glTF, Shapefile, VMDK, ...) need more than the one
+// file a "sample" row tracks to actually work once downloaded — a .gltf
+// needs its .bin buffers, a .shp needs its .dbf/.shx, a .vmdk needs its
+// -flat.vmdk. build.py detects these companion files purely by filename
+// convention (see is_companion_filename() in builder.py) and marks that
+// row's Download link with data-bundle-files — nothing else about the row
+// changes: same URL, same FORMAT/SIZE columns, same button text. Only a
+// click on THAT specific button behaves differently.
+//
+// There's no server running on GitHub Pages to zip anything ahead of time,
+// so this happens entirely in the visitor's browser, at the moment of the
+// click: fetch the primary file plus every companion (all just ordinary
+// static files, so this works fine on GitHub Pages), zip them together
+// with JSZip (loaded from a CDN only the first time a bundle download is
+// actually clicked — most pages never need it), and hand the browser the
+// resulting .zip to save. A sample with no companions is never touched by
+// any of this; its Download link works exactly as a plain link always has,
+// with or without JavaScript.
+
+var JSZIP_CDN_URL = "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js";
+var jsZipLoadPromise = null;
+
+function loadJsZip() {
+  if (window.JSZip) {
+    return Promise.resolve();
+  }
+  if (jsZipLoadPromise) {
+    return jsZipLoadPromise;
+  }
+  jsZipLoadPromise = new Promise(function (resolve, reject) {
+    var script = document.createElement("script");
+    script.src = JSZIP_CDN_URL;
+    script.onload = function () { resolve(); };
+    script.onerror = function () {
+      jsZipLoadPromise = null; // let a later click try again (e.g. after a flaky connection)
+      reject(new Error("Couldn't load the zip library — check your connection and try again."));
+    };
+    document.head.appendChild(script);
+  });
+  return jsZipLoadPromise;
+}
+
+// Companion filenames are relative to the primary file's own folder — the
+// primary file's real href already tells us that folder, so nothing about
+// the link's URL has to change for this to work.
+function bundlePlan(link) {
+  var primaryUrl = link.getAttribute("href");
+  var dir = primaryUrl.slice(0, primaryUrl.lastIndexOf("/") + 1);
+  var primaryName = primaryUrl.slice(primaryUrl.lastIndexOf("/") + 1);
+  var companions = (link.getAttribute("data-bundle-files") || "")
+    .split(",")
+    .map(function (f) { return f.trim(); })
+    .filter(Boolean);
+
+  return {
+    zipName: primaryName.replace(/\.[^.]+$/, "") + "-bundle.zip",
+    files: [{ name: primaryName, url: primaryUrl }].concat(
+      companions.map(function (name) { return { name: name, url: dir + name }; })
+    ),
+  };
+}
+
+function triggerBlobDownload(blob, filename) {
+  var blobUrl = URL.createObjectURL(blob);
+  var tempLink = document.createElement("a");
+  tempLink.href = blobUrl;
+  tempLink.download = filename;
+  document.body.appendChild(tempLink);
+  tempLink.click();
+  document.body.removeChild(tempLink);
+  setTimeout(function () { URL.revokeObjectURL(blobUrl); }, 4000);
+}
+
+function handleBundleDownloadClick(e) {
+  var link = e.currentTarget;
+  if (link.classList.contains("is-zipping")) {
+    e.preventDefault();
+    return; // already in progress -- ignore repeat clicks
+  }
+  e.preventDefault();
+
+  var originalText = link.textContent;
+  link.classList.add("is-zipping");
+  link.setAttribute("aria-busy", "true");
+  link.textContent = "Zipping…";
+
+  var plan = bundlePlan(link);
+
+  loadJsZip()
+    .then(function () {
+      return Promise.all(
+        plan.files.map(function (f) {
+          return fetch(f.url).then(function (res) {
+            if (!res.ok) {
+              throw new Error("Couldn't fetch " + f.name + " (" + res.status + ")");
+            }
+            return res.blob();
+          }).then(function (blob) {
+            return { name: f.name, blob: blob };
+          });
+        })
+      );
+    })
+    .then(function (fetched) {
+      var zip = new window.JSZip();
+      fetched.forEach(function (f) {
+        zip.file(f.name, f.blob);
+      });
+      return zip.generateAsync({ type: "blob" });
+    })
+    .then(function (zipBlob) {
+      triggerBlobDownload(zipBlob, plan.zipName);
+    })
+    .catch(function (err) {
+      // Still gets them the main file even if the bundling failed for some
+      // reason (e.g. offline, CDN blocked) -- a dead end is worse than an
+      // incomplete-but-useful download.
+      console.error("Bundle download failed, falling back to the primary file alone:", err);
+      window.location.href = link.getAttribute("href");
+    })
+    .finally(function () {
+      link.classList.remove("is-zipping");
+      link.removeAttribute("aria-busy");
+      link.textContent = originalText;
+    });
+}
+
+function initBundleDownloads() {
+  if (!window.fetch || !window.Promise || !window.URL || !URL.createObjectURL) {
+    return; // no-JS-equivalent fallback: links just behave as plain single-file downloads
+  }
+  var links = document.querySelectorAll("a.bundle-download[data-bundle-files]");
+  for (var i = 0; i < links.length; i++) {
+    links[i].addEventListener("click", handleBundleDownloadClick);
+  }
+}
 
 // ---------------------------------------------------------------- search
 //
