@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Clojure (.clj) Samples — Code &amp; Markup Files | GetSampleData</title>
+  <meta name="description" content="Free sample Clojure (.clj) source file for testing Lisp-family parsers and JVM-based tooling." />
+  
+  <link rel="canonical" href="https://getsampledata.com/code-markup/sample-clj-file/" />
+  <meta name="theme-color" content="#343a40" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicons/favicon-16x16.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="48x48" href="/assets/icons/favicons/favicon-48x48.png" />
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/icons/favicons/favicon-96x96.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/icons/favicons/android-chrome-192x192.png" />
+  <link rel="icon" type="image/png" sizes="512x512" href="/assets/icons/favicons/android-chrome-512x512.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="GetSampleData" />
+  <meta property="og:title" content="Clojure (.clj) Samples — Code &amp; Markup Files | GetSampleData" />
+  <meta property="og:description" content="Free sample Clojure (.clj) source file for testing Lisp-family parsers and JVM-based tooling." />
+  <meta property="og:url" content="https://getsampledata.com/code-markup/sample-clj-file/" />
+  <meta property="og:image" content="https://getsampledata.com/assets/icons/favicons/android-chrome-512x512.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Clojure (.clj) Samples — Code &amp; Markup Files | GetSampleData" />
+  <meta name="twitter:description" content="Free sample Clojure (.clj) source file for testing Lisp-family parsers and JVM-based tooling." />
+  <meta name="twitter:image" content="https://getsampledata.com/assets/icons/favicons/android-chrome-512x512.png" />
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://getsampledata.com/"}, {"@type": "ListItem", "position": 2, "name": "Code", "item": "https://getsampledata.com/code-markup/"}, {"@type": "ListItem", "position": 3, "name": "Clojure (.clj)", "item": "https://getsampledata.com/code-markup/sample-clj-file/"}]}</script>
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body>
+<header class="site-header">
+    <div class="container">
+      <a href="/" class="logo"><img class="logo-mark-img" src="/assets/icons/site-icon.png" alt="" /> GetSampleData</a>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        Menu
+      </button>
+      <nav class="main-nav">
+        <form class="search-form" action="/search/" method="get" role="search" autocomplete="off">
+          <input type="search" id="site-search-input" name="q" class="search-input" placeholder="Search formats, e.g. jpg, pdf, image..." aria-label="Search sample files" />
+          <button type="submit" class="search-submit" aria-label="Search">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          </button>
+          <ul id="search-suggestions" class="search-suggestions" hidden></ul>
+        </form>
+        <ul class="nav-links"><li><a href="/3d-models/" class="">3D Models</a></li>
+<li><a href="/archives/" class="">Archives</a></li>
+<li><a href="/audio/" class="">Audio</a></li>
+<li><a href="/code-markup/" class="active">Code</a></li>
+<li><a href="/database-config/" class="">DB &amp; Config</a></li>
+<li class="nav-more ">
+        <button type="button" class="nav-more-toggle" aria-haspopup="true" aria-expanded="false">More <span class="caret" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span></button>
+        <ul class="nav-more-menu"><li><a href="/disk-images/" class="">Disk Images</a></li>
+<li><a href="/documents/" class="">Documents</a></li>
+<li><a href="/ebooks/" class="">Ebooks</a></li>
+<li><a href="/email/" class="">Email</a></li>
+<li><a href="/gis/" class="">GIS &amp; Maps</a></li>
+<li><a href="/images/" class="">Images</a></li>
+<li><a href="/presentations/" class="">Presentations</a></li>
+<li><a href="/scientific-data/" class="">Scientific Data</a></li>
+<li><a href="/spreadsheets/" class="">Spreadsheets</a></li>
+<li><a href="/subtitles-captions/" class="">Subtitles</a></li>
+<li><a href="/vector-design/" class="">Vector &amp; Design</a></li>
+<li><a href="/video/" class="">Video</a></li>
+</ul>
+      </li>
+</ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+  <section class="page-header">
+    <div class="container">
+      <div class="breadcrumbs"><a href="/">Home</a> / <a href="/code-markup/">Code</a> / Clojure (.clj)</div>
+      <h1>Sample Clojure (.clj) File Download</h1>
+      <p>Free sample Clojure (.clj) source file for testing Lisp-family parsers and JVM-based tooling.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      
+
+      <div class="file-groups">
+        <div class="file-group">
+          <div class="file-table-wrap">
+            <table class="file-table">
+              <thead>
+                <tr><th>File</th><th>Format</th><th>Approx. Size</th><th></th></tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="file-name"><span class="file-name-inner"><span class="file-ext">Clojure (.clj)</span> Sample 1</span></td>
+                  <td>Clojure (.clj)</td>
+                  <td>233 B</td>
+                  
+                  <td><a class="btn btn-sm" href="/sample-files/code-markup/sample-clj-file/sample-1.clj" title="Download Sample 1 — 233 B Clojure (.clj) sample file for testing" aria-label="Download Sample 1 — 233 B Clojure (.clj) sample file for testing" download>Download</a></td>
+                </tr>
+
+                <tr>
+                  <td class="file-name"><span class="file-name-inner"><span class="file-ext">Clojure (.clj)</span> Sample 2</span></td>
+                  <td>Clojure (.clj)</td>
+                  <td>392 B</td>
+                  
+                  <td><a class="btn btn-sm" href="/sample-files/code-markup/sample-clj-file/sample-2.clj" title="Download Sample 2 — 392 B Clojure (.clj) sample file for testing" aria-label="Download Sample 2 — 392 B Clojure (.clj) sample file for testing" download>Download</a></td>
+                </tr>
+
+                <tr>
+                  <td class="file-name"><span class="file-name-inner"><span class="file-ext">Clojure (.clj)</span> Sample 3</span></td>
+                  <td>Clojure (.clj)</td>
+                  <td>557 B</td>
+                  
+                  <td><a class="btn btn-sm" href="/sample-files/code-markup/sample-clj-file/sample-3.clj" title="Download Sample 3 — 557 B Clojure (.clj) sample file for testing" aria-label="Download Sample 3 — 557 B Clojure (.clj) sample file for testing" download>Download</a></td>
+                </tr>
+
+                <tr>
+                  <td class="file-name"><span class="file-name-inner"><span class="file-ext">Clojure (.clj)</span> Sample 4</span></td>
+                  <td>Clojure (.clj)</td>
+                  <td>883 B</td>
+                  
+                  <td><a class="btn btn-sm" href="/sample-files/code-markup/sample-clj-file/sample-4.clj" title="Download Sample 4 — 883 B Clojure (.clj) sample file for testing" aria-label="Download Sample 4 — 883 B Clojure (.clj) sample file for testing" download>Download</a></td>
+                </tr>
+
+                <tr>
+                  <td class="file-name"><span class="file-name-inner"><span class="file-ext">Clojure (.clj)</span> Sample 5</span></td>
+                  <td>Clojure (.clj)</td>
+                  <td>1.3 KB</td>
+                  
+                  <td><a class="btn btn-sm" href="/sample-files/code-markup/sample-clj-file/sample-5.clj" title="Download Sample 5 — 1.3 KB Clojure (.clj) sample file for testing" aria-label="Download Sample 5 — 1.3 KB Clojure (.clj) sample file for testing" download>Download</a></td>
+                </tr>
+
+                <tr>
+                  <td class="file-name"><span class="file-name-inner"><span class="file-ext">Clojure (.clj)</span> Sample 6</span></td>
+                  <td>Clojure (.clj)</td>
+                  <td>2.5 KB</td>
+                  
+                  <td><a class="btn btn-sm" href="/sample-files/code-markup/sample-clj-file/sample-6.clj" title="Download Sample 6 — 2.5 KB Clojure (.clj) sample file for testing" aria-label="Download Sample 6 — 2.5 KB Clojure (.clj) sample file for testing" download>Download</a></td>
+                </tr>
+
+                <tr>
+                  <td class="file-name"><span class="file-name-inner"><span class="file-ext">Clojure (.clj)</span> Sample 7</span></td>
+                  <td>Clojure (.clj)</td>
+                  <td>4.1 KB</td>
+                  
+                  <td><a class="btn btn-sm" href="/sample-files/code-markup/sample-clj-file/sample-7.clj" title="Download Sample 7 — 4.1 KB Clojure (.clj) sample file for testing" aria-label="Download Sample 7 — 4.1 KB Clojure (.clj) sample file for testing" download>Download</a></td>
+                </tr>
+
+                <tr>
+                  <td class="file-name"><span class="file-name-inner"><span class="file-ext">Clojure (.clj)</span> Sample 8</span></td>
+                  <td>Clojure (.clj)</td>
+                  <td>6.5 KB</td>
+                  
+                  <td><a class="btn btn-sm" href="/sample-files/code-markup/sample-clj-file/sample-8.clj" title="Download Sample 8 — 6.5 KB Clojure (.clj) sample file for testing" aria-label="Download Sample 8 — 6.5 KB Clojure (.clj) sample file for testing" download>Download</a></td>
+                </tr>
+
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      
+      <div class="related-formats">
+  <h2>More Code &amp; Markup Files</h2>
+  <ul><li><a href="/code-markup/sample-asm-file/" title="Get sample Assembly (.asm) files for testing purposes">Assembly (.asm) Sample Files</a></li><li><a href="/code-markup/sample-bash-file/" title="Get sample Bash Script files for testing purposes">Bash Script Sample Files</a></li><li><a href="/code-markup/sample-bat-file/" title="Get sample Windows Batch (.bat) files for testing purposes">Windows Batch (.bat) Sample Files</a></li><li><a href="/code-markup/sample-c-file/" title="Get sample C Source (.c) files for testing purposes">C Source (.c) Sample Files</a></li><li><a href="/code-markup/sample-cpp-file/" title="Get sample C++ Source (.cpp) files for testing purposes">C++ Source (.cpp) Sample Files</a></li><li><a href="/code-markup/sample-cs-file/" title="Get sample C# Source (.cs) files for testing purposes">C# Source (.cs) Sample Files</a></li><li><a href="/code-markup/sample-css-file/" title="Get sample CSS files for testing purposes">CSS Sample Files</a></li><li><a href="/code-markup/sample-dart-file/" title="Get sample Dart Source (.dart) files for testing purposes">Dart Source (.dart) Sample Files</a></li><li><a href="/code-markup/sample-dockerfile-file/" title="Get sample Dockerfile files for testing purposes">Dockerfile Sample Files</a></li><li><a href="/code-markup/sample-ex-file/" title="Get sample Elixir (.ex) files for testing purposes">Elixir (.ex) Sample Files</a></li><li><a href="/code-markup/sample-exs-file/" title="Get sample Elixir Script (.exs) files for testing purposes">Elixir Script (.exs) Sample Files</a></li><li><a href="/code-markup/sample-fs-file/" title="Get sample F# Source (.fs) files for testing purposes">F# Source (.fs) Sample Files</a></li><li><a href="/code-markup/sample-go-file/" title="Get sample Go Source (.go) files for testing purposes">Go Source (.go) Sample Files</a></li><li><a href="/code-markup/sample-graphql-file/" title="Get sample GraphQL (.graphql) files for testing purposes">GraphQL (.graphql) Sample Files</a></li><li><a href="/code-markup/sample-groovy-file/" title="Get sample Groovy (.groovy) files for testing purposes">Groovy (.groovy) Sample Files</a></li><li><a href="/code-markup/sample-h-file/" title="Get sample C Header (.h) files for testing purposes">C Header (.h) Sample Files</a></li><li><a href="/code-markup/sample-hpp-file/" title="Get sample C++ Header (.hpp) files for testing purposes">C++ Header (.hpp) Sample Files</a></li><li><a href="/code-markup/sample-hs-file/" title="Get sample Haskell (.hs) files for testing purposes">Haskell (.hs) Sample Files</a></li><li><a href="/code-markup/sample-html-file/" title="Get sample HTML files for testing purposes">HTML Sample Files</a></li><li><a href="/code-markup/sample-ini-file/" title="Get sample INI Config files for testing purposes">INI Config Sample Files</a></li><li><a href="/code-markup/sample-ipynb-file/" title="Get sample Jupyter Notebook (.ipynb) files for testing purposes">Jupyter Notebook (.ipynb) Sample Files</a></li><li><a href="/code-markup/sample-java-file/" title="Get sample Java Source (.java) files for testing purposes">Java Source (.java) Sample Files</a></li><li><a href="/code-markup/sample-js-file/" title="Get sample JavaScript (.js) files for testing purposes">JavaScript (.js) Sample Files</a></li><li><a href="/code-markup/sample-json-file/" title="Get sample JSON files for testing purposes">JSON Sample Files</a></li><li><a href="/code-markup/sample-jsx-file/" title="Get sample React JSX (.jsx) files for testing purposes">React JSX (.jsx) Sample Files</a></li><li><a href="/code-markup/sample-kt-file/" title="Get sample Kotlin (.kt) files for testing purposes">Kotlin (.kt) Sample Files</a></li><li><a href="/code-markup/sample-lua-file/" title="Get sample Lua Script (.lua) files for testing purposes">Lua Script (.lua) Sample Files</a></li><li><a href="/code-markup/sample-m-file/" title="Get sample MATLAB/Objective-C (.m) files for testing purposes">MATLAB/Objective-C (.m) Sample Files</a></li><li><a href="/code-markup/sample-makefile-file/" title="Get sample Makefile files for testing purposes">Makefile Sample Files</a></li><li><a href="/code-markup/sample-php-file/" title="Get sample PHP files for testing purposes">PHP Sample Files</a></li><li><a href="/code-markup/sample-pl-file/" title="Get sample Perl (.pl) files for testing purposes">Perl (.pl) Sample Files</a></li><li><a href="/code-markup/sample-proto-file/" title="Get sample Protocol Buffers (.proto) files for testing purposes">Protocol Buffers (.proto) Sample Files</a></li><li><a href="/code-markup/sample-ps1-file/" title="Get sample PowerShell (.ps1) files for testing purposes">PowerShell (.ps1) Sample Files</a></li><li><a href="/code-markup/sample-py-file/" title="Get sample Python (.py) files for testing purposes">Python (.py) Sample Files</a></li><li><a href="/code-markup/sample-r-file/" title="Get sample R Script (.r) files for testing purposes">R Script (.r) Sample Files</a></li><li><a href="/code-markup/sample-rb-file/" title="Get sample Ruby (.rb) files for testing purposes">Ruby (.rb) Sample Files</a></li><li><a href="/code-markup/sample-rs-file/" title="Get sample Rust Source (.rs) files for testing purposes">Rust Source (.rs) Sample Files</a></li><li><a href="/code-markup/sample-scala-file/" title="Get sample Scala Source (.scala) files for testing purposes">Scala Source (.scala) Sample Files</a></li><li><a href="/code-markup/sample-sh-file/" title="Get sample Shell Script (.sh) files for testing purposes">Shell Script (.sh) Sample Files</a></li><li><a href="/code-markup/sample-sql-file/" title="Get sample SQL Script files for testing purposes">SQL Script Sample Files</a></li><li><a href="/code-markup/sample-swift-file/" title="Get sample Swift (.swift) files for testing purposes">Swift (.swift) Sample Files</a></li><li><a href="/code-markup/sample-toml-file/" title="Get sample TOML Config files for testing purposes">TOML Config Sample Files</a></li><li><a href="/code-markup/sample-ts-file/" title="Get sample TypeScript (.ts) files for testing purposes">TypeScript (.ts) Sample Files</a></li><li><a href="/code-markup/sample-tsx-file/" title="Get sample TypeScript JSX (.tsx) files for testing purposes">TypeScript JSX (.tsx) Sample Files</a></li><li><a href="/code-markup/sample-vb-file/" title="Get sample Visual Basic (.vb) files for testing purposes">Visual Basic (.vb) Sample Files</a></li><li><a href="/code-markup/sample-vue-file/" title="Get sample Vue Component (.vue) files for testing purposes">Vue Component (.vue) Sample Files</a></li><li><a href="/code-markup/sample-xml-file/" title="Get sample XML files for testing purposes">XML Sample Files</a></li><li><a href="/code-markup/sample-yaml-file/" title="Get sample YAML (.yaml) files for testing purposes">YAML (.yaml) Sample Files</a></li><li><a href="/code-markup/sample-yml-file/" title="Get sample YAML (.yml) files for testing purposes">YAML (.yml) Sample Files</a></li></ul>
+</div>
+    </div>
+  </section>
+
+  </main>
+<footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <h4>GetSampleData</h4>
+          <p>Free sample and test files for developers, testers, and designers.</p>
+          
+        </div>
+        <div class="footer-col"><h4>Popular</h4><ul><li><a href="/archives/" title="Get sample Archive Files files for testing purposes">Archive Files</a></li>
+<li><a href="/audio/" title="Get sample Audio Files files for testing purposes">Audio Files</a></li>
+<li><a href="/code-markup/" title="Get sample Code &amp; Markup Files files for testing purposes">Code &amp; Markup Files</a></li>
+<li><a href="/documents/" title="Get sample Document Files files for testing purposes">Document Files</a></li>
+<li><a href="/images/" title="Get sample Image Files files for testing purposes">Image Files</a></li>
+<li><a href="/presentations/" title="Get sample Presentation Files files for testing purposes">Presentation Files</a></li>
+<li><a href="/spreadsheets/" title="Get sample Spreadsheet Files files for testing purposes">Spreadsheet Files</a></li>
+<li><a href="/video/" title="Get sample Video Files files for testing purposes">Video Files</a></li>
+</ul></div>
+        <div class="footer-col"><h4>More</h4><ul><li><a href="/3d-models/" title="Get sample 3D Model Files files for testing purposes">3D Model Files</a></li>
+<li><a href="/cad/" title="Get sample CAD Files files for testing purposes">CAD Files</a></li>
+<li><a href="/database-config/" title="Get sample Database &amp; Config Files files for testing purposes">Database &amp; Config Files</a></li>
+<li><a href="/disk-images/" title="Get sample Disk Image Files files for testing purposes">Disk Image Files</a></li>
+<li><a href="/ebooks/" title="Get sample Ebook Files files for testing purposes">Ebook Files</a></li>
+<li><a href="/email/" title="Get sample Email Files files for testing purposes">Email Files</a></li>
+<li><a href="/gis/" title="Get sample GIS &amp; Map Data Files files for testing purposes">GIS &amp; Map Data Files</a></li>
+<li><a href="/scientific-data/" title="Get sample Scientific Data Files files for testing purposes">Scientific Data Files</a></li>
+<li><a href="/subtitles-captions/" title="Get sample Subtitle &amp; Caption Files files for testing purposes">Subtitle &amp; Caption Files</a></li>
+<li><a href="/vector-design/" title="Get sample Vector &amp; Design Files files for testing purposes">Vector &amp; Design Files</a></li>
+</ul></div>
+        <div class="footer-col"><h4>Legal</h4><ul>
+          <li><a href="/terms/">Terms of Use</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul></div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; 2026 GetSampleData. All sample files are provided for testing purposes only.</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/search-index.js"></script>
+  <script src="/assets/js/site.js"></script>
+</body>
+</html>
