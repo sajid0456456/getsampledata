@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample Placemarks</name>
+    <Placemark><name>Location 0</name><Point><coordinates>-122.084,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 1</name><Point><coordinates>-122.074,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 2</name><Point><coordinates>-122.06400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 3</name><Point><coordinates>-122.054,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 4</name><Point><coordinates>-122.044,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 5</name><Point><coordinates>-122.034,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 6</name><Point><coordinates>-122.024,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 7</name><Point><coordinates>-122.01400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 8</name><Point><coordinates>-122.004,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 9</name><Point><coordinates>-121.994,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 10</name><Point><coordinates>-121.98400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 11</name><Point><coordinates>-121.974,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 12</name><Point><coordinates>-121.964,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 13</name><Point><coordinates>-121.95400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 14</name><Point><coordinates>-121.944,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 15</name><Point><coordinates>-121.934,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 16</name><Point><coordinates>-121.924,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 17</name><Point><coordinates>-121.914,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 18</name><Point><coordinates>-121.904,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 19</name><Point><coordinates>-121.894,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 20</name><Point><coordinates>-121.884,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 21</name><Point><coordinates>-121.87400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 22</name><Point><coordinates>-121.864,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 23</name><Point><coordinates>-121.854,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 24</name><Point><coordinates>-121.84400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 25</name><Point><coordinates>-121.834,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 26</name><Point><coordinates>-121.824,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 27</name><Point><coordinates>-121.81400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 28</name><Point><coordinates>-121.804,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 29</name><Point><coordinates>-121.794,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 30</name><Point><coordinates>-121.784,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 31</name><Point><coordinates>-121.774,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 32</name><Point><coordinates>-121.76400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 33</name><Point><coordinates>-121.754,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 34</name><Point><coordinates>-121.744,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 35</name><Point><coordinates>-121.73400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 36</name><Point><coordinates>-121.724,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 37</name><Point><coordinates>-121.714,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 38</name><Point><coordinates>-121.70400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 39</name><Point><coordinates>-121.694,37.422,0</coordinates></Point></Placemark>
+  </Document>
+</kml>

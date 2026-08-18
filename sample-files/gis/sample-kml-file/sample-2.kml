@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample Placemarks</name>
+    <Placemark><name>Location 0</name><Point><coordinates>-122.084,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 1</name><Point><coordinates>-122.074,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 2</name><Point><coordinates>-122.06400000000001,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 3</name><Point><coordinates>-122.054,37.422,0</coordinates></Point></Placemark>
+    <Placemark><name>Location 4</name><Point><coordinates>-122.044,37.422,0</coordinates></Point></Placemark>
+  </Document>
+</kml>

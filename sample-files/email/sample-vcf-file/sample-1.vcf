@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sample Contact 0
+N:Contact0;Sample;;;
+ORG:GetSampleData.com
+TEL;TYPE=WORK,VOICE:+1-555-0000
+EMAIL:sample0@getsampledata.com
+END:VCARD
