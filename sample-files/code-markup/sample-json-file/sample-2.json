@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Widget 1",
+      "price": 5.33,
+      "in_stock": false
+    },
+    {
+      "id": 2,
+      "name": "Widget 2",
+      "price": 7.67,
+      "in_stock": true
+    },
+    {
+      "id": 3,
+      "name": "Widget 3",
+      "price": 10.0,
+      "in_stock": false
+    },
+    {
+      "id": 4,
+      "name": "Widget 4",
+      "price": 12.33,
+      "in_stock": true
+    },
+    {
+      "id": 5,
+      "name": "Widget 5",
+      "price": 14.67,
+      "in_stock": false
+    },
+    {
+      "id": 6,
+      "name": "Widget 6",
+      "price": 17.0,
+      "in_stock": true
+    },
+    {
+      "id": 7,
+      "name": "Widget 7",
+      "price": 19.33,
+      "in_stock": false
+    },
+    {
+      "id": 8,
+      "name": "Widget 8",
+      "price": 21.67,
+      "in_stock": true
+    },
+    {
+      "id": 9,
+      "name": "Widget 9",
+      "price": 24.0,
+      "in_stock": false
+    },
+    {
+      "id": 10,
+      "name": "Widget 10",
+      "price": 26.33,
+      "in_stock": true
+    },
+    {
+      "id": 11,
+      "name": "Widget 11",
+      "price": 28.67,
+      "in_stock": false
+    },
+    {
+      "id": 12,
+      "name": "Widget 12",
+      "price": 31.0,
+      "in_stock": true
+    },
+    {
+      "id": 13,
+      "name": "Widget 13",
+      "price": 33.33,
+      "in_stock": false
+    },
+    {
+      "id": 14,
+      "name": "Widget 14",
+      "price": 35.67,
+      "in_stock": true
+    },
+    {
+      "id": 15,
+      "name": "Widget 15",
+      "price": 38.0,
+      "in_stock": false
+    }
+  ]
+}

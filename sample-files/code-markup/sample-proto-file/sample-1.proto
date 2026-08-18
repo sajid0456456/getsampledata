@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message Widget {
+  int32 id = 1;
+  string name = 2;
+  float price = 3;
+  string field0 = 10;
+  string field1 = 11;
+  string field2 = 12;
+  string field3 = 13;
+  string field4 = 14;
+}
