@@ -497,7 +497,12 @@ a:hover {
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
-
+.growing-db-text-box{
+    font-size: 0.8rem;
+    color: var(--color-accent-dark);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
 /* ---------- Page header (category pages) ---------- */
 
 .page-header {
