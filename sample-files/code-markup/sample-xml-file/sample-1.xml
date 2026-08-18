@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <item id="1"><name>Widget 1</name><price>5.33</price></item>
+  <item id="2"><name>Widget 2</name><price>7.67</price></item>
+  <item id="3"><name>Widget 3</name><price>10.0</price></item>
+  <item id="4"><name>Widget 4</name><price>12.33</price></item>
+  <item id="5"><name>Widget 5</name><price>14.67</price></item>
+</catalog>

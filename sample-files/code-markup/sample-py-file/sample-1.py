@@ -1,0 +1,7 @@
+def greet(name: str) -> str:
+    return f'Hello, {name}!'
+
+if __name__ == '__main__':
+    print(greet('GetSampleData.com'))
+
+# Note 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. (paragraph 1)

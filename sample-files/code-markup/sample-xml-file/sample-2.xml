@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <item id="1"><name>Widget 1</name><price>5.33</price></item>
+  <item id="2"><name>Widget 2</name><price>7.67</price></item>
+  <item id="3"><name>Widget 3</name><price>10.0</price></item>
+  <item id="4"><name>Widget 4</name><price>12.33</price></item>
+  <item id="5"><name>Widget 5</name><price>14.67</price></item>
+  <item id="6"><name>Widget 6</name><price>17.0</price></item>
+  <item id="7"><name>Widget 7</name><price>19.33</price></item>
+  <item id="8"><name>Widget 8</name><price>21.67</price></item>
+  <item id="9"><name>Widget 9</name><price>24.0</price></item>
+  <item id="10"><name>Widget 10</name><price>26.33</price></item>
+  <item id="11"><name>Widget 11</name><price>28.67</price></item>
+  <item id="12"><name>Widget 12</name><price>31.0</price></item>
+  <item id="13"><name>Widget 13</name><price>33.33</price></item>
+  <item id="14"><name>Widget 14</name><price>35.67</price></item>
+  <item id="15"><name>Widget 15</name><price>38.0</price></item>
+</catalog>

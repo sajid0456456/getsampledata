@@ -1,0 +1,27 @@
+name = "sample"
+version = "1.0.0"
+
+[[items]]
+id = 1
+name = "Widget 1"
+price = 5.33
+
+[[items]]
+id = 2
+name = "Widget 2"
+price = 7.67
+
+[[items]]
+id = 3
+name = "Widget 3"
+price = 10.0
+
+[[items]]
+id = 4
+name = "Widget 4"
+price = 12.33
+
+[[items]]
+id = 5
+name = "Widget 5"
+price = 14.67

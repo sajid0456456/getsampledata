@@ -1,0 +1,303 @@
+name: sample
+version: 1.0.0
+items:
+  - id: 1
+    name: Widget 1
+    price: 5.33
+  - id: 2
+    name: Widget 2
+    price: 7.67
+  - id: 3
+    name: Widget 3
+    price: 10.0
+  - id: 4
+    name: Widget 4
+    price: 12.33
+  - id: 5
+    name: Widget 5
+    price: 14.67
+  - id: 6
+    name: Widget 6
+    price: 17.0
+  - id: 7
+    name: Widget 7
+    price: 19.33
+  - id: 8
+    name: Widget 8
+    price: 21.67
+  - id: 9
+    name: Widget 9
+    price: 24.0
+  - id: 10
+    name: Widget 10
+    price: 26.33
+  - id: 11
+    name: Widget 11
+    price: 28.67
+  - id: 12
+    name: Widget 12
+    price: 31.0
+  - id: 13
+    name: Widget 13
+    price: 33.33
+  - id: 14
+    name: Widget 14
+    price: 35.67
+  - id: 15
+    name: Widget 15
+    price: 38.0
+  - id: 16
+    name: Widget 16
+    price: 40.33
+  - id: 17
+    name: Widget 17
+    price: 42.67
+  - id: 18
+    name: Widget 18
+    price: 45.0
+  - id: 19
+    name: Widget 19
+    price: 47.33
+  - id: 20
+    name: Widget 20
+    price: 49.67
+  - id: 21
+    name: Widget 21
+    price: 52.0
+  - id: 22
+    name: Widget 22
+    price: 54.33
+  - id: 23
+    name: Widget 23
+    price: 56.67
+  - id: 24
+    name: Widget 24
+    price: 59.0
+  - id: 25
+    name: Widget 25
+    price: 61.33
+  - id: 26
+    name: Widget 26
+    price: 63.67
+  - id: 27
+    name: Widget 27
+    price: 66.0
+  - id: 28
+    name: Widget 28
+    price: 68.33
+  - id: 29
+    name: Widget 29
+    price: 70.67
+  - id: 30
+    name: Widget 30
+    price: 73.0
+  - id: 31
+    name: Widget 31
+    price: 75.33
+  - id: 32
+    name: Widget 32
+    price: 77.67
+  - id: 33
+    name: Widget 33
+    price: 80.0
+  - id: 34
+    name: Widget 34
+    price: 82.33
+  - id: 35
+    name: Widget 35
+    price: 84.67
+  - id: 36
+    name: Widget 36
+    price: 87.0
+  - id: 37
+    name: Widget 37
+    price: 89.33
+  - id: 38
+    name: Widget 38
+    price: 91.67
+  - id: 39
+    name: Widget 39
+    price: 94.0
+  - id: 40
+    name: Widget 40
+    price: 96.33
+  - id: 41
+    name: Widget 41
+    price: 98.67
+  - id: 42
+    name: Widget 42
+    price: 101.0
+  - id: 43
+    name: Widget 43
+    price: 103.33
+  - id: 44
+    name: Widget 44
+    price: 105.67
+  - id: 45
+    name: Widget 45
+    price: 108.0
+  - id: 46
+    name: Widget 46
+    price: 110.33
+  - id: 47
+    name: Widget 47
+    price: 112.67
+  - id: 48
+    name: Widget 48
+    price: 115.0
+  - id: 49
+    name: Widget 49
+    price: 117.33
+  - id: 50
+    name: Widget 50
+    price: 119.67
+  - id: 51
+    name: Widget 51
+    price: 122.0
+  - id: 52
+    name: Widget 52
+    price: 124.33
+  - id: 53
+    name: Widget 53
+    price: 126.67
+  - id: 54
+    name: Widget 54
+    price: 129.0
+  - id: 55
+    name: Widget 55
+    price: 131.33
+  - id: 56
+    name: Widget 56
+    price: 133.67
+  - id: 57
+    name: Widget 57
+    price: 136.0
+  - id: 58
+    name: Widget 58
+    price: 138.33
+  - id: 59
+    name: Widget 59
+    price: 140.67
+  - id: 60
+    name: Widget 60
+    price: 143.0
+  - id: 61
+    name: Widget 61
+    price: 145.33
+  - id: 62
+    name: Widget 62
+    price: 147.67
+  - id: 63
+    name: Widget 63
+    price: 150.0
+  - id: 64
+    name: Widget 64
+    price: 152.33
+  - id: 65
+    name: Widget 65
+    price: 154.67
+  - id: 66
+    name: Widget 66
+    price: 157.0
+  - id: 67
+    name: Widget 67
+    price: 159.33
+  - id: 68
+    name: Widget 68
+    price: 161.67
+  - id: 69
+    name: Widget 69
+    price: 164.0
+  - id: 70
+    name: Widget 70
+    price: 166.33
+  - id: 71
+    name: Widget 71
+    price: 168.67
+  - id: 72
+    name: Widget 72
+    price: 4.33
+  - id: 73
+    name: Widget 73
+    price: 6.67
+  - id: 74
+    name: Widget 74
+    price: 9.0
+  - id: 75
+    name: Widget 75
+    price: 11.33
+  - id: 76
+    name: Widget 76
+    price: 13.67
+  - id: 77
+    name: Widget 77
+    price: 16.0
+  - id: 78
+    name: Widget 78
+    price: 18.33
+  - id: 79
+    name: Widget 79
+    price: 20.67
+  - id: 80
+    name: Widget 80
+    price: 23.0
+  - id: 81
+    name: Widget 81
+    price: 25.33
+  - id: 82
+    name: Widget 82
+    price: 27.67
+  - id: 83
+    name: Widget 83
+    price: 30.0
+  - id: 84
+    name: Widget 84
+    price: 32.33
+  - id: 85
+    name: Widget 85
+    price: 34.67
+  - id: 86
+    name: Widget 86
+    price: 37.0
+  - id: 87
+    name: Widget 87
+    price: 39.33
+  - id: 88
+    name: Widget 88
+    price: 41.67
+  - id: 89
+    name: Widget 89
+    price: 44.0
+  - id: 90
+    name: Widget 90
+    price: 46.33
+  - id: 91
+    name: Widget 91
+    price: 48.67
+  - id: 92
+    name: Widget 92
+    price: 51.0
+  - id: 93
+    name: Widget 93
+    price: 53.33
+  - id: 94
+    name: Widget 94
+    price: 55.67
+  - id: 95
+    name: Widget 95
+    price: 58.0
+  - id: 96
+    name: Widget 96
+    price: 60.33
+  - id: 97
+    name: Widget 97
+    price: 62.67
+  - id: 98
+    name: Widget 98
+    price: 65.0
+  - id: 99
+    name: Widget 99
+    price: 67.33
+  - id: 100
+    name: Widget 100
+    price: 69.67
