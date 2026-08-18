@@ -1,0 +1,38 @@
+@RELATION widgets
+
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE name STRING
+@ATTRIBUTE price NUMERIC
+@ATTRIBUTE in_stock {True, False}
+
+@DATA
+1,'Widget 1',5.33,False
+2,'Widget 2',7.67,True
+3,'Widget 3',10.0,False
+4,'Widget 4',12.33,True
+5,'Widget 5',14.67,False
+6,'Widget 6',17.0,True
+7,'Widget 7',19.33,False
+8,'Widget 8',21.67,True
+9,'Widget 9',24.0,False
+10,'Widget 10',26.33,True
+11,'Widget 11',28.67,False
+12,'Widget 12',31.0,True
+13,'Widget 13',33.33,False
+14,'Widget 14',35.67,True
+15,'Widget 15',38.0,False
+16,'Widget 16',40.33,True
+17,'Widget 17',42.67,False
+18,'Widget 18',45.0,True
+19,'Widget 19',47.33,False
+20,'Widget 20',49.67,True
+21,'Widget 21',52.0,False
+22,'Widget 22',54.33,True
+23,'Widget 23',56.67,False
+24,'Widget 24',59.0,True
+25,'Widget 25',61.33,False
+26,'Widget 26',63.67,True
+27,'Widget 27',66.0,False
+28,'Widget 28',68.33,True
+29,'Widget 29',70.67,False
+30,'Widget 30',73.0,True
