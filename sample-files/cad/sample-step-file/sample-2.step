@@ -1,0 +1,18 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('Sample STEP file for GetSampleData.com'),'2;1');
+FILE_NAME('sample.step','2026-08-18T00:00:00',('GetSampleData.com'),(''),'','','');
+FILE_SCHEMA(('CONFIG_CONTROL_DESIGN'));
+ENDSEC;
+DATA;
+#1 = CARTESIAN_POINT('P0',(0.0,0.0,0.0));
+#2 = CARTESIAN_POINT('P0b',(8.0,0.0,0.0));
+#3 = LINE('L0',#1,#2);
+#4 = CARTESIAN_POINT('P1',(10.0,0.0,0.0));
+#5 = CARTESIAN_POINT('P1b',(18.0,0.0,0.0));
+#6 = LINE('L1',#4,#5);
+#7 = CARTESIAN_POINT('P2',(20.0,0.0,0.0));
+#8 = CARTESIAN_POINT('P2b',(28.0,0.0,0.0));
+#9 = LINE('L2',#7,#8);
+ENDSEC;
+END-ISO-10303-21;
