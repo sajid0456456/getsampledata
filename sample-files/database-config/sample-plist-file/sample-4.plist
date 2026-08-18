@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<integer>1</integer>
+			<key>name</key>
+			<string>Widget 1</string>
+			<key>price</key>
+			<real>5.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>2</integer>
+			<key>name</key>
+			<string>Widget 2</string>
+			<key>price</key>
+			<real>7.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>3</integer>
+			<key>name</key>
+			<string>Widget 3</string>
+			<key>price</key>
+			<real>10.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>Widget 4</string>
+			<key>price</key>
+			<real>12.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>Widget 5</string>
+			<key>price</key>
+			<real>14.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>6</integer>
+			<key>name</key>
+			<string>Widget 6</string>
+			<key>price</key>
+			<real>17.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>7</integer>
+			<key>name</key>
+			<string>Widget 7</string>
+			<key>price</key>
+			<real>19.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>8</integer>
+			<key>name</key>
+			<string>Widget 8</string>
+			<key>price</key>
+			<real>21.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>9</integer>
+			<key>name</key>
+			<string>Widget 9</string>
+			<key>price</key>
+			<real>24.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>10</integer>
+			<key>name</key>
+			<string>Widget 10</string>
+			<key>price</key>
+			<real>26.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>11</integer>
+			<key>name</key>
+			<string>Widget 11</string>
+			<key>price</key>
+			<real>28.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>12</integer>
+			<key>name</key>
+			<string>Widget 12</string>
+			<key>price</key>
+			<real>31.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>13</integer>
+			<key>name</key>
+			<string>Widget 13</string>
+			<key>price</key>
+			<real>33.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>14</integer>
+			<key>name</key>
+			<string>Widget 14</string>
+			<key>price</key>
+			<real>35.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>15</integer>
+			<key>name</key>
+			<string>Widget 15</string>
+			<key>price</key>
+			<real>38.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>16</integer>
+			<key>name</key>
+			<string>Widget 16</string>
+			<key>price</key>
+			<real>40.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>17</integer>
+			<key>name</key>
+			<string>Widget 17</string>
+			<key>price</key>
+			<real>42.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>18</integer>
+			<key>name</key>
+			<string>Widget 18</string>
+			<key>price</key>
+			<real>45.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>19</integer>
+			<key>name</key>
+			<string>Widget 19</string>
+			<key>price</key>
+			<real>47.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>20</integer>
+			<key>name</key>
+			<string>Widget 20</string>
+			<key>price</key>
+			<real>49.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>21</integer>
+			<key>name</key>
+			<string>Widget 21</string>
+			<key>price</key>
+			<real>52.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>22</integer>
+			<key>name</key>
+			<string>Widget 22</string>
+			<key>price</key>
+			<real>54.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>23</integer>
+			<key>name</key>
+			<string>Widget 23</string>
+			<key>price</key>
+			<real>56.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>24</integer>
+			<key>name</key>
+			<string>Widget 24</string>
+			<key>price</key>
+			<real>59.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>25</integer>
+			<key>name</key>
+			<string>Widget 25</string>
+			<key>price</key>
+			<real>61.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>26</integer>
+			<key>name</key>
+			<string>Widget 26</string>
+			<key>price</key>
+			<real>63.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>27</integer>
+			<key>name</key>
+			<string>Widget 27</string>
+			<key>price</key>
+			<real>66.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>28</integer>
+			<key>name</key>
+			<string>Widget 28</string>
+			<key>price</key>
+			<real>68.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>29</integer>
+			<key>name</key>
+			<string>Widget 29</string>
+			<key>price</key>
+			<real>70.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>30</integer>
+			<key>name</key>
+			<string>Widget 30</string>
+			<key>price</key>
+			<real>73.0</real>
+		</dict>
+	</array>
+	<key>Name</key>
+	<string>Sample</string>
+	<key>Version</key>
+	<string>1.0.0</string>
+</dict>
+</plist>

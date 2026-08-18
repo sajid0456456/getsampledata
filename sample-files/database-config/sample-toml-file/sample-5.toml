@@ -1,0 +1,302 @@
+name = "sample"
+version = "1.0.0"
+
+[[items]]
+id = 1
+name = "Widget 1"
+price = 5.33
+
+[[items]]
+id = 2
+name = "Widget 2"
+price = 7.67
+
+[[items]]
+id = 3
+name = "Widget 3"
+price = 10.0
+
+[[items]]
+id = 4
+name = "Widget 4"
+price = 12.33
+
+[[items]]
+id = 5
+name = "Widget 5"
+price = 14.67
+
+[[items]]
+id = 6
+name = "Widget 6"
+price = 17.0
+
+[[items]]
+id = 7
+name = "Widget 7"
+price = 19.33
+
+[[items]]
+id = 8
+name = "Widget 8"
+price = 21.67
+
+[[items]]
+id = 9
+name = "Widget 9"
+price = 24.0
+
+[[items]]
+id = 10
+name = "Widget 10"
+price = 26.33
+
+[[items]]
+id = 11
+name = "Widget 11"
+price = 28.67
+
+[[items]]
+id = 12
+name = "Widget 12"
+price = 31.0
+
+[[items]]
+id = 13
+name = "Widget 13"
+price = 33.33
+
+[[items]]
+id = 14
+name = "Widget 14"
+price = 35.67
+
+[[items]]
+id = 15
+name = "Widget 15"
+price = 38.0
+
+[[items]]
+id = 16
+name = "Widget 16"
+price = 40.33
+
+[[items]]
+id = 17
+name = "Widget 17"
+price = 42.67
+
+[[items]]
+id = 18
+name = "Widget 18"
+price = 45.0
+
+[[items]]
+id = 19
+name = "Widget 19"
+price = 47.33
+
+[[items]]
+id = 20
+name = "Widget 20"
+price = 49.67
+
+[[items]]
+id = 21
+name = "Widget 21"
+price = 52.0
+
+[[items]]
+id = 22
+name = "Widget 22"
+price = 54.33
+
+[[items]]
+id = 23
+name = "Widget 23"
+price = 56.67
+
+[[items]]
+id = 24
+name = "Widget 24"
+price = 59.0
+
+[[items]]
+id = 25
+name = "Widget 25"
+price = 61.33
+
+[[items]]
+id = 26
+name = "Widget 26"
+price = 63.67
+
+[[items]]
+id = 27
+name = "Widget 27"
+price = 66.0
+
+[[items]]
+id = 28
+name = "Widget 28"
+price = 68.33
+
+[[items]]
+id = 29
+name = "Widget 29"
+price = 70.67
+
+[[items]]
+id = 30
+name = "Widget 30"
+price = 73.0
+
+[[items]]
+id = 31
+name = "Widget 31"
+price = 75.33
+
+[[items]]
+id = 32
+name = "Widget 32"
+price = 77.67
+
+[[items]]
+id = 33
+name = "Widget 33"
+price = 80.0
+
+[[items]]
+id = 34
+name = "Widget 34"
+price = 82.33
+
+[[items]]
+id = 35
+name = "Widget 35"
+price = 84.67
+
+[[items]]
+id = 36
+name = "Widget 36"
+price = 87.0
+
+[[items]]
+id = 37
+name = "Widget 37"
+price = 89.33
+
+[[items]]
+id = 38
+name = "Widget 38"
+price = 91.67
+
+[[items]]
+id = 39
+name = "Widget 39"
+price = 94.0
+
+[[items]]
+id = 40
+name = "Widget 40"
+price = 96.33
+
+[[items]]
+id = 41
+name = "Widget 41"
+price = 98.67
+
+[[items]]
+id = 42
+name = "Widget 42"
+price = 101.0
+
+[[items]]
+id = 43
+name = "Widget 43"
+price = 103.33
+
+[[items]]
+id = 44
+name = "Widget 44"
+price = 105.67
+
+[[items]]
+id = 45
+name = "Widget 45"
+price = 108.0
+
+[[items]]
+id = 46
+name = "Widget 46"
+price = 110.33
+
+[[items]]
+id = 47
+name = "Widget 47"
+price = 112.67
+
+[[items]]
+id = 48
+name = "Widget 48"
+price = 115.0
+
+[[items]]
+id = 49
+name = "Widget 49"
+price = 117.33
+
+[[items]]
+id = 50
+name = "Widget 50"
+price = 119.67
+
+[[items]]
+id = 51
+name = "Widget 51"
+price = 122.0
+
+[[items]]
+id = 52
+name = "Widget 52"
+price = 124.33
+
+[[items]]
+id = 53
+name = "Widget 53"
+price = 126.67
+
+[[items]]
+id = 54
+name = "Widget 54"
+price = 129.0
+
+[[items]]
+id = 55
+name = "Widget 55"
+price = 131.33
+
+[[items]]
+id = 56
+name = "Widget 56"
+price = 133.67
+
+[[items]]
+id = 57
+name = "Widget 57"
+price = 136.0
+
+[[items]]
+id = 58
+name = "Widget 58"
+price = 138.33
+
+[[items]]
+id = 59
+name = "Widget 59"
+price = 140.67
+
+[[items]]
+id = 60
+name = "Widget 60"
+price = 143.0

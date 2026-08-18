@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SampleApp]
+"Item1Name"="Widget 1"
+"Item1Price"=dword:00000215
+"Item2Name"="Widget 2"
+"Item2Price"=dword:000002ff
+"Item3Name"="Widget 3"
+"Item3Price"=dword:000003e8

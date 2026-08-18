@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<integer>1</integer>
+			<key>name</key>
+			<string>Widget 1</string>
+			<key>price</key>
+			<real>5.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>2</integer>
+			<key>name</key>
+			<string>Widget 2</string>
+			<key>price</key>
+			<real>7.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>3</integer>
+			<key>name</key>
+			<string>Widget 3</string>
+			<key>price</key>
+			<real>10.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>Widget 4</string>
+			<key>price</key>
+			<real>12.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>Widget 5</string>
+			<key>price</key>
+			<real>14.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>6</integer>
+			<key>name</key>
+			<string>Widget 6</string>
+			<key>price</key>
+			<real>17.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>7</integer>
+			<key>name</key>
+			<string>Widget 7</string>
+			<key>price</key>
+			<real>19.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>8</integer>
+			<key>name</key>
+			<string>Widget 8</string>
+			<key>price</key>
+			<real>21.67</real>
+		</dict>
+	</array>
+	<key>Name</key>
+	<string>Sample</string>
+	<key>Version</key>
+	<string>1.0.0</string>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SampleApp]
+"Item1Name"="Widget 1"
+"Item1Price"=dword:00000215
+"Item2Name"="Widget 2"
+"Item2Price"=dword:000002ff
+"Item3Name"="Widget 3"
+"Item3Price"=dword:000003e8
+"Item4Name"="Widget 4"
+"Item4Price"=dword:000004d1
+"Item5Name"="Widget 5"
+"Item5Price"=dword:000005bb
+"Item6Name"="Widget 6"
+"Item6Price"=dword:000006a4
+"Item7Name"="Widget 7"
+"Item7Price"=dword:0000078c
+"Item8Name"="Widget 8"
+"Item8Price"=dword:00000877
+"Item9Name"="Widget 9"
+"Item9Price"=dword:00000960
+"Item10Name"="Widget 10"
+"Item10Price"=dword:00000a49
+"Item11Name"="Widget 11"
+"Item11Price"=dword:00000b33
+"Item12Name"="Widget 12"
+"Item12Price"=dword:00000c1c
+"Item13Name"="Widget 13"
+"Item13Price"=dword:00000d05
+"Item14Name"="Widget 14"
+"Item14Price"=dword:00000def
+"Item15Name"="Widget 15"
+"Item15Price"=dword:00000ed8

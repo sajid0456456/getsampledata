@@ -1,0 +1,2013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<integer>1</integer>
+			<key>name</key>
+			<string>Widget 1</string>
+			<key>price</key>
+			<real>5.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>2</integer>
+			<key>name</key>
+			<string>Widget 2</string>
+			<key>price</key>
+			<real>7.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>3</integer>
+			<key>name</key>
+			<string>Widget 3</string>
+			<key>price</key>
+			<real>10.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>Widget 4</string>
+			<key>price</key>
+			<real>12.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>Widget 5</string>
+			<key>price</key>
+			<real>14.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>6</integer>
+			<key>name</key>
+			<string>Widget 6</string>
+			<key>price</key>
+			<real>17.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>7</integer>
+			<key>name</key>
+			<string>Widget 7</string>
+			<key>price</key>
+			<real>19.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>8</integer>
+			<key>name</key>
+			<string>Widget 8</string>
+			<key>price</key>
+			<real>21.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>9</integer>
+			<key>name</key>
+			<string>Widget 9</string>
+			<key>price</key>
+			<real>24.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>10</integer>
+			<key>name</key>
+			<string>Widget 10</string>
+			<key>price</key>
+			<real>26.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>11</integer>
+			<key>name</key>
+			<string>Widget 11</string>
+			<key>price</key>
+			<real>28.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>12</integer>
+			<key>name</key>
+			<string>Widget 12</string>
+			<key>price</key>
+			<real>31.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>13</integer>
+			<key>name</key>
+			<string>Widget 13</string>
+			<key>price</key>
+			<real>33.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>14</integer>
+			<key>name</key>
+			<string>Widget 14</string>
+			<key>price</key>
+			<real>35.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>15</integer>
+			<key>name</key>
+			<string>Widget 15</string>
+			<key>price</key>
+			<real>38.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>16</integer>
+			<key>name</key>
+			<string>Widget 16</string>
+			<key>price</key>
+			<real>40.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>17</integer>
+			<key>name</key>
+			<string>Widget 17</string>
+			<key>price</key>
+			<real>42.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>18</integer>
+			<key>name</key>
+			<string>Widget 18</string>
+			<key>price</key>
+			<real>45.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>19</integer>
+			<key>name</key>
+			<string>Widget 19</string>
+			<key>price</key>
+			<real>47.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>20</integer>
+			<key>name</key>
+			<string>Widget 20</string>
+			<key>price</key>
+			<real>49.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>21</integer>
+			<key>name</key>
+			<string>Widget 21</string>
+			<key>price</key>
+			<real>52.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>22</integer>
+			<key>name</key>
+			<string>Widget 22</string>
+			<key>price</key>
+			<real>54.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>23</integer>
+			<key>name</key>
+			<string>Widget 23</string>
+			<key>price</key>
+			<real>56.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>24</integer>
+			<key>name</key>
+			<string>Widget 24</string>
+			<key>price</key>
+			<real>59.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>25</integer>
+			<key>name</key>
+			<string>Widget 25</string>
+			<key>price</key>
+			<real>61.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>26</integer>
+			<key>name</key>
+			<string>Widget 26</string>
+			<key>price</key>
+			<real>63.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>27</integer>
+			<key>name</key>
+			<string>Widget 27</string>
+			<key>price</key>
+			<real>66.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>28</integer>
+			<key>name</key>
+			<string>Widget 28</string>
+			<key>price</key>
+			<real>68.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>29</integer>
+			<key>name</key>
+			<string>Widget 29</string>
+			<key>price</key>
+			<real>70.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>30</integer>
+			<key>name</key>
+			<string>Widget 30</string>
+			<key>price</key>
+			<real>73.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>31</integer>
+			<key>name</key>
+			<string>Widget 31</string>
+			<key>price</key>
+			<real>75.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>32</integer>
+			<key>name</key>
+			<string>Widget 32</string>
+			<key>price</key>
+			<real>77.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>33</integer>
+			<key>name</key>
+			<string>Widget 33</string>
+			<key>price</key>
+			<real>80.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>34</integer>
+			<key>name</key>
+			<string>Widget 34</string>
+			<key>price</key>
+			<real>82.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>35</integer>
+			<key>name</key>
+			<string>Widget 35</string>
+			<key>price</key>
+			<real>84.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>36</integer>
+			<key>name</key>
+			<string>Widget 36</string>
+			<key>price</key>
+			<real>87.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>37</integer>
+			<key>name</key>
+			<string>Widget 37</string>
+			<key>price</key>
+			<real>89.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>38</integer>
+			<key>name</key>
+			<string>Widget 38</string>
+			<key>price</key>
+			<real>91.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>39</integer>
+			<key>name</key>
+			<string>Widget 39</string>
+			<key>price</key>
+			<real>94.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>40</integer>
+			<key>name</key>
+			<string>Widget 40</string>
+			<key>price</key>
+			<real>96.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>41</integer>
+			<key>name</key>
+			<string>Widget 41</string>
+			<key>price</key>
+			<real>98.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>42</integer>
+			<key>name</key>
+			<string>Widget 42</string>
+			<key>price</key>
+			<real>101.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>43</integer>
+			<key>name</key>
+			<string>Widget 43</string>
+			<key>price</key>
+			<real>103.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>44</integer>
+			<key>name</key>
+			<string>Widget 44</string>
+			<key>price</key>
+			<real>105.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>45</integer>
+			<key>name</key>
+			<string>Widget 45</string>
+			<key>price</key>
+			<real>108.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>46</integer>
+			<key>name</key>
+			<string>Widget 46</string>
+			<key>price</key>
+			<real>110.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>47</integer>
+			<key>name</key>
+			<string>Widget 47</string>
+			<key>price</key>
+			<real>112.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>48</integer>
+			<key>name</key>
+			<string>Widget 48</string>
+			<key>price</key>
+			<real>115.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>49</integer>
+			<key>name</key>
+			<string>Widget 49</string>
+			<key>price</key>
+			<real>117.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>50</integer>
+			<key>name</key>
+			<string>Widget 50</string>
+			<key>price</key>
+			<real>119.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>51</integer>
+			<key>name</key>
+			<string>Widget 51</string>
+			<key>price</key>
+			<real>122.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>52</integer>
+			<key>name</key>
+			<string>Widget 52</string>
+			<key>price</key>
+			<real>124.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>53</integer>
+			<key>name</key>
+			<string>Widget 53</string>
+			<key>price</key>
+			<real>126.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>54</integer>
+			<key>name</key>
+			<string>Widget 54</string>
+			<key>price</key>
+			<real>129.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>55</integer>
+			<key>name</key>
+			<string>Widget 55</string>
+			<key>price</key>
+			<real>131.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>56</integer>
+			<key>name</key>
+			<string>Widget 56</string>
+			<key>price</key>
+			<real>133.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>57</integer>
+			<key>name</key>
+			<string>Widget 57</string>
+			<key>price</key>
+			<real>136.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>58</integer>
+			<key>name</key>
+			<string>Widget 58</string>
+			<key>price</key>
+			<real>138.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>59</integer>
+			<key>name</key>
+			<string>Widget 59</string>
+			<key>price</key>
+			<real>140.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>60</integer>
+			<key>name</key>
+			<string>Widget 60</string>
+			<key>price</key>
+			<real>143.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>61</integer>
+			<key>name</key>
+			<string>Widget 61</string>
+			<key>price</key>
+			<real>145.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>62</integer>
+			<key>name</key>
+			<string>Widget 62</string>
+			<key>price</key>
+			<real>147.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>63</integer>
+			<key>name</key>
+			<string>Widget 63</string>
+			<key>price</key>
+			<real>150.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>64</integer>
+			<key>name</key>
+			<string>Widget 64</string>
+			<key>price</key>
+			<real>152.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>65</integer>
+			<key>name</key>
+			<string>Widget 65</string>
+			<key>price</key>
+			<real>154.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>66</integer>
+			<key>name</key>
+			<string>Widget 66</string>
+			<key>price</key>
+			<real>157.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>67</integer>
+			<key>name</key>
+			<string>Widget 67</string>
+			<key>price</key>
+			<real>159.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>68</integer>
+			<key>name</key>
+			<string>Widget 68</string>
+			<key>price</key>
+			<real>161.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>69</integer>
+			<key>name</key>
+			<string>Widget 69</string>
+			<key>price</key>
+			<real>164.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>70</integer>
+			<key>name</key>
+			<string>Widget 70</string>
+			<key>price</key>
+			<real>166.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>71</integer>
+			<key>name</key>
+			<string>Widget 71</string>
+			<key>price</key>
+			<real>168.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>72</integer>
+			<key>name</key>
+			<string>Widget 72</string>
+			<key>price</key>
+			<real>4.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>73</integer>
+			<key>name</key>
+			<string>Widget 73</string>
+			<key>price</key>
+			<real>6.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>74</integer>
+			<key>name</key>
+			<string>Widget 74</string>
+			<key>price</key>
+			<real>9.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>75</integer>
+			<key>name</key>
+			<string>Widget 75</string>
+			<key>price</key>
+			<real>11.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>76</integer>
+			<key>name</key>
+			<string>Widget 76</string>
+			<key>price</key>
+			<real>13.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>77</integer>
+			<key>name</key>
+			<string>Widget 77</string>
+			<key>price</key>
+			<real>16.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>78</integer>
+			<key>name</key>
+			<string>Widget 78</string>
+			<key>price</key>
+			<real>18.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>79</integer>
+			<key>name</key>
+			<string>Widget 79</string>
+			<key>price</key>
+			<real>20.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>80</integer>
+			<key>name</key>
+			<string>Widget 80</string>
+			<key>price</key>
+			<real>23.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>81</integer>
+			<key>name</key>
+			<string>Widget 81</string>
+			<key>price</key>
+			<real>25.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>82</integer>
+			<key>name</key>
+			<string>Widget 82</string>
+			<key>price</key>
+			<real>27.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>83</integer>
+			<key>name</key>
+			<string>Widget 83</string>
+			<key>price</key>
+			<real>30.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>84</integer>
+			<key>name</key>
+			<string>Widget 84</string>
+			<key>price</key>
+			<real>32.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>85</integer>
+			<key>name</key>
+			<string>Widget 85</string>
+			<key>price</key>
+			<real>34.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>86</integer>
+			<key>name</key>
+			<string>Widget 86</string>
+			<key>price</key>
+			<real>37.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>87</integer>
+			<key>name</key>
+			<string>Widget 87</string>
+			<key>price</key>
+			<real>39.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>88</integer>
+			<key>name</key>
+			<string>Widget 88</string>
+			<key>price</key>
+			<real>41.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>89</integer>
+			<key>name</key>
+			<string>Widget 89</string>
+			<key>price</key>
+			<real>44.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>90</integer>
+			<key>name</key>
+			<string>Widget 90</string>
+			<key>price</key>
+			<real>46.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>91</integer>
+			<key>name</key>
+			<string>Widget 91</string>
+			<key>price</key>
+			<real>48.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>92</integer>
+			<key>name</key>
+			<string>Widget 92</string>
+			<key>price</key>
+			<real>51.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>93</integer>
+			<key>name</key>
+			<string>Widget 93</string>
+			<key>price</key>
+			<real>53.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>94</integer>
+			<key>name</key>
+			<string>Widget 94</string>
+			<key>price</key>
+			<real>55.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>95</integer>
+			<key>name</key>
+			<string>Widget 95</string>
+			<key>price</key>
+			<real>58.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>96</integer>
+			<key>name</key>
+			<string>Widget 96</string>
+			<key>price</key>
+			<real>60.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>97</integer>
+			<key>name</key>
+			<string>Widget 97</string>
+			<key>price</key>
+			<real>62.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>98</integer>
+			<key>name</key>
+			<string>Widget 98</string>
+			<key>price</key>
+			<real>65.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>99</integer>
+			<key>name</key>
+			<string>Widget 99</string>
+			<key>price</key>
+			<real>67.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>100</integer>
+			<key>name</key>
+			<string>Widget 100</string>
+			<key>price</key>
+			<real>69.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>101</integer>
+			<key>name</key>
+			<string>Widget 101</string>
+			<key>price</key>
+			<real>72.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>102</integer>
+			<key>name</key>
+			<string>Widget 102</string>
+			<key>price</key>
+			<real>74.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>103</integer>
+			<key>name</key>
+			<string>Widget 103</string>
+			<key>price</key>
+			<real>76.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>104</integer>
+			<key>name</key>
+			<string>Widget 104</string>
+			<key>price</key>
+			<real>79.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>105</integer>
+			<key>name</key>
+			<string>Widget 105</string>
+			<key>price</key>
+			<real>81.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>106</integer>
+			<key>name</key>
+			<string>Widget 106</string>
+			<key>price</key>
+			<real>83.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>107</integer>
+			<key>name</key>
+			<string>Widget 107</string>
+			<key>price</key>
+			<real>86.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>108</integer>
+			<key>name</key>
+			<string>Widget 108</string>
+			<key>price</key>
+			<real>88.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>109</integer>
+			<key>name</key>
+			<string>Widget 109</string>
+			<key>price</key>
+			<real>90.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>110</integer>
+			<key>name</key>
+			<string>Widget 110</string>
+			<key>price</key>
+			<real>93.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>111</integer>
+			<key>name</key>
+			<string>Widget 111</string>
+			<key>price</key>
+			<real>95.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>112</integer>
+			<key>name</key>
+			<string>Widget 112</string>
+			<key>price</key>
+			<real>97.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>113</integer>
+			<key>name</key>
+			<string>Widget 113</string>
+			<key>price</key>
+			<real>100.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>114</integer>
+			<key>name</key>
+			<string>Widget 114</string>
+			<key>price</key>
+			<real>102.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>115</integer>
+			<key>name</key>
+			<string>Widget 115</string>
+			<key>price</key>
+			<real>104.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>116</integer>
+			<key>name</key>
+			<string>Widget 116</string>
+			<key>price</key>
+			<real>107.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>117</integer>
+			<key>name</key>
+			<string>Widget 117</string>
+			<key>price</key>
+			<real>109.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>118</integer>
+			<key>name</key>
+			<string>Widget 118</string>
+			<key>price</key>
+			<real>111.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>119</integer>
+			<key>name</key>
+			<string>Widget 119</string>
+			<key>price</key>
+			<real>114.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>120</integer>
+			<key>name</key>
+			<string>Widget 120</string>
+			<key>price</key>
+			<real>116.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>121</integer>
+			<key>name</key>
+			<string>Widget 121</string>
+			<key>price</key>
+			<real>118.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>122</integer>
+			<key>name</key>
+			<string>Widget 122</string>
+			<key>price</key>
+			<real>121.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>123</integer>
+			<key>name</key>
+			<string>Widget 123</string>
+			<key>price</key>
+			<real>123.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>124</integer>
+			<key>name</key>
+			<string>Widget 124</string>
+			<key>price</key>
+			<real>125.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>125</integer>
+			<key>name</key>
+			<string>Widget 125</string>
+			<key>price</key>
+			<real>128.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>126</integer>
+			<key>name</key>
+			<string>Widget 126</string>
+			<key>price</key>
+			<real>130.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>127</integer>
+			<key>name</key>
+			<string>Widget 127</string>
+			<key>price</key>
+			<real>132.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>128</integer>
+			<key>name</key>
+			<string>Widget 128</string>
+			<key>price</key>
+			<real>135.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>129</integer>
+			<key>name</key>
+			<string>Widget 129</string>
+			<key>price</key>
+			<real>137.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>130</integer>
+			<key>name</key>
+			<string>Widget 130</string>
+			<key>price</key>
+			<real>139.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>131</integer>
+			<key>name</key>
+			<string>Widget 131</string>
+			<key>price</key>
+			<real>142.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>132</integer>
+			<key>name</key>
+			<string>Widget 132</string>
+			<key>price</key>
+			<real>144.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>133</integer>
+			<key>name</key>
+			<string>Widget 133</string>
+			<key>price</key>
+			<real>146.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>134</integer>
+			<key>name</key>
+			<string>Widget 134</string>
+			<key>price</key>
+			<real>149.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>135</integer>
+			<key>name</key>
+			<string>Widget 135</string>
+			<key>price</key>
+			<real>151.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>136</integer>
+			<key>name</key>
+			<string>Widget 136</string>
+			<key>price</key>
+			<real>153.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>137</integer>
+			<key>name</key>
+			<string>Widget 137</string>
+			<key>price</key>
+			<real>156.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>138</integer>
+			<key>name</key>
+			<string>Widget 138</string>
+			<key>price</key>
+			<real>158.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>139</integer>
+			<key>name</key>
+			<string>Widget 139</string>
+			<key>price</key>
+			<real>160.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>140</integer>
+			<key>name</key>
+			<string>Widget 140</string>
+			<key>price</key>
+			<real>163.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>141</integer>
+			<key>name</key>
+			<string>Widget 141</string>
+			<key>price</key>
+			<real>165.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>142</integer>
+			<key>name</key>
+			<string>Widget 142</string>
+			<key>price</key>
+			<real>167.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>143</integer>
+			<key>name</key>
+			<string>Widget 143</string>
+			<key>price</key>
+			<real>3.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>144</integer>
+			<key>name</key>
+			<string>Widget 144</string>
+			<key>price</key>
+			<real>5.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>145</integer>
+			<key>name</key>
+			<string>Widget 145</string>
+			<key>price</key>
+			<real>8.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>146</integer>
+			<key>name</key>
+			<string>Widget 146</string>
+			<key>price</key>
+			<real>10.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>147</integer>
+			<key>name</key>
+			<string>Widget 147</string>
+			<key>price</key>
+			<real>12.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>148</integer>
+			<key>name</key>
+			<string>Widget 148</string>
+			<key>price</key>
+			<real>15.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>149</integer>
+			<key>name</key>
+			<string>Widget 149</string>
+			<key>price</key>
+			<real>17.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>150</integer>
+			<key>name</key>
+			<string>Widget 150</string>
+			<key>price</key>
+			<real>19.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>151</integer>
+			<key>name</key>
+			<string>Widget 151</string>
+			<key>price</key>
+			<real>22.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>152</integer>
+			<key>name</key>
+			<string>Widget 152</string>
+			<key>price</key>
+			<real>24.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>153</integer>
+			<key>name</key>
+			<string>Widget 153</string>
+			<key>price</key>
+			<real>26.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>154</integer>
+			<key>name</key>
+			<string>Widget 154</string>
+			<key>price</key>
+			<real>29.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>155</integer>
+			<key>name</key>
+			<string>Widget 155</string>
+			<key>price</key>
+			<real>31.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>156</integer>
+			<key>name</key>
+			<string>Widget 156</string>
+			<key>price</key>
+			<real>33.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>157</integer>
+			<key>name</key>
+			<string>Widget 157</string>
+			<key>price</key>
+			<real>36.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>158</integer>
+			<key>name</key>
+			<string>Widget 158</string>
+			<key>price</key>
+			<real>38.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>159</integer>
+			<key>name</key>
+			<string>Widget 159</string>
+			<key>price</key>
+			<real>40.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>160</integer>
+			<key>name</key>
+			<string>Widget 160</string>
+			<key>price</key>
+			<real>43.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>161</integer>
+			<key>name</key>
+			<string>Widget 161</string>
+			<key>price</key>
+			<real>45.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>162</integer>
+			<key>name</key>
+			<string>Widget 162</string>
+			<key>price</key>
+			<real>47.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>163</integer>
+			<key>name</key>
+			<string>Widget 163</string>
+			<key>price</key>
+			<real>50.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>164</integer>
+			<key>name</key>
+			<string>Widget 164</string>
+			<key>price</key>
+			<real>52.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>165</integer>
+			<key>name</key>
+			<string>Widget 165</string>
+			<key>price</key>
+			<real>54.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>166</integer>
+			<key>name</key>
+			<string>Widget 166</string>
+			<key>price</key>
+			<real>57.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>167</integer>
+			<key>name</key>
+			<string>Widget 167</string>
+			<key>price</key>
+			<real>59.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>168</integer>
+			<key>name</key>
+			<string>Widget 168</string>
+			<key>price</key>
+			<real>61.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>169</integer>
+			<key>name</key>
+			<string>Widget 169</string>
+			<key>price</key>
+			<real>64.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>170</integer>
+			<key>name</key>
+			<string>Widget 170</string>
+			<key>price</key>
+			<real>66.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>171</integer>
+			<key>name</key>
+			<string>Widget 171</string>
+			<key>price</key>
+			<real>68.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>172</integer>
+			<key>name</key>
+			<string>Widget 172</string>
+			<key>price</key>
+			<real>71.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>173</integer>
+			<key>name</key>
+			<string>Widget 173</string>
+			<key>price</key>
+			<real>73.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>174</integer>
+			<key>name</key>
+			<string>Widget 174</string>
+			<key>price</key>
+			<real>75.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>175</integer>
+			<key>name</key>
+			<string>Widget 175</string>
+			<key>price</key>
+			<real>78.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>176</integer>
+			<key>name</key>
+			<string>Widget 176</string>
+			<key>price</key>
+			<real>80.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>177</integer>
+			<key>name</key>
+			<string>Widget 177</string>
+			<key>price</key>
+			<real>82.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>178</integer>
+			<key>name</key>
+			<string>Widget 178</string>
+			<key>price</key>
+			<real>85.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>179</integer>
+			<key>name</key>
+			<string>Widget 179</string>
+			<key>price</key>
+			<real>87.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>180</integer>
+			<key>name</key>
+			<string>Widget 180</string>
+			<key>price</key>
+			<real>89.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>181</integer>
+			<key>name</key>
+			<string>Widget 181</string>
+			<key>price</key>
+			<real>92.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>182</integer>
+			<key>name</key>
+			<string>Widget 182</string>
+			<key>price</key>
+			<real>94.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>183</integer>
+			<key>name</key>
+			<string>Widget 183</string>
+			<key>price</key>
+			<real>96.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>184</integer>
+			<key>name</key>
+			<string>Widget 184</string>
+			<key>price</key>
+			<real>99.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>185</integer>
+			<key>name</key>
+			<string>Widget 185</string>
+			<key>price</key>
+			<real>101.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>186</integer>
+			<key>name</key>
+			<string>Widget 186</string>
+			<key>price</key>
+			<real>103.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>187</integer>
+			<key>name</key>
+			<string>Widget 187</string>
+			<key>price</key>
+			<real>106.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>188</integer>
+			<key>name</key>
+			<string>Widget 188</string>
+			<key>price</key>
+			<real>108.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>189</integer>
+			<key>name</key>
+			<string>Widget 189</string>
+			<key>price</key>
+			<real>110.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>190</integer>
+			<key>name</key>
+			<string>Widget 190</string>
+			<key>price</key>
+			<real>113.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>191</integer>
+			<key>name</key>
+			<string>Widget 191</string>
+			<key>price</key>
+			<real>115.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>192</integer>
+			<key>name</key>
+			<string>Widget 192</string>
+			<key>price</key>
+			<real>117.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>193</integer>
+			<key>name</key>
+			<string>Widget 193</string>
+			<key>price</key>
+			<real>120.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>194</integer>
+			<key>name</key>
+			<string>Widget 194</string>
+			<key>price</key>
+			<real>122.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>195</integer>
+			<key>name</key>
+			<string>Widget 195</string>
+			<key>price</key>
+			<real>124.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>196</integer>
+			<key>name</key>
+			<string>Widget 196</string>
+			<key>price</key>
+			<real>127.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>197</integer>
+			<key>name</key>
+			<string>Widget 197</string>
+			<key>price</key>
+			<real>129.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>198</integer>
+			<key>name</key>
+			<string>Widget 198</string>
+			<key>price</key>
+			<real>131.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>199</integer>
+			<key>name</key>
+			<string>Widget 199</string>
+			<key>price</key>
+			<real>134.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>200</integer>
+			<key>name</key>
+			<string>Widget 200</string>
+			<key>price</key>
+			<real>136.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>201</integer>
+			<key>name</key>
+			<string>Widget 201</string>
+			<key>price</key>
+			<real>138.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>202</integer>
+			<key>name</key>
+			<string>Widget 202</string>
+			<key>price</key>
+			<real>141.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>203</integer>
+			<key>name</key>
+			<string>Widget 203</string>
+			<key>price</key>
+			<real>143.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>204</integer>
+			<key>name</key>
+			<string>Widget 204</string>
+			<key>price</key>
+			<real>145.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>205</integer>
+			<key>name</key>
+			<string>Widget 205</string>
+			<key>price</key>
+			<real>148.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>206</integer>
+			<key>name</key>
+			<string>Widget 206</string>
+			<key>price</key>
+			<real>150.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>207</integer>
+			<key>name</key>
+			<string>Widget 207</string>
+			<key>price</key>
+			<real>152.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>208</integer>
+			<key>name</key>
+			<string>Widget 208</string>
+			<key>price</key>
+			<real>155.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>209</integer>
+			<key>name</key>
+			<string>Widget 209</string>
+			<key>price</key>
+			<real>157.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>210</integer>
+			<key>name</key>
+			<string>Widget 210</string>
+			<key>price</key>
+			<real>159.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>211</integer>
+			<key>name</key>
+			<string>Widget 211</string>
+			<key>price</key>
+			<real>162.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>212</integer>
+			<key>name</key>
+			<string>Widget 212</string>
+			<key>price</key>
+			<real>164.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>213</integer>
+			<key>name</key>
+			<string>Widget 213</string>
+			<key>price</key>
+			<real>166.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>214</integer>
+			<key>name</key>
+			<string>Widget 214</string>
+			<key>price</key>
+			<real>169.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>215</integer>
+			<key>name</key>
+			<string>Widget 215</string>
+			<key>price</key>
+			<real>4.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>216</integer>
+			<key>name</key>
+			<string>Widget 216</string>
+			<key>price</key>
+			<real>7.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>217</integer>
+			<key>name</key>
+			<string>Widget 217</string>
+			<key>price</key>
+			<real>9.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>218</integer>
+			<key>name</key>
+			<string>Widget 218</string>
+			<key>price</key>
+			<real>11.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>219</integer>
+			<key>name</key>
+			<string>Widget 219</string>
+			<key>price</key>
+			<real>14.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>220</integer>
+			<key>name</key>
+			<string>Widget 220</string>
+			<key>price</key>
+			<real>16.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>221</integer>
+			<key>name</key>
+			<string>Widget 221</string>
+			<key>price</key>
+			<real>18.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>222</integer>
+			<key>name</key>
+			<string>Widget 222</string>
+			<key>price</key>
+			<real>21.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>223</integer>
+			<key>name</key>
+			<string>Widget 223</string>
+			<key>price</key>
+			<real>23.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>224</integer>
+			<key>name</key>
+			<string>Widget 224</string>
+			<key>price</key>
+			<real>25.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>225</integer>
+			<key>name</key>
+			<string>Widget 225</string>
+			<key>price</key>
+			<real>28.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>226</integer>
+			<key>name</key>
+			<string>Widget 226</string>
+			<key>price</key>
+			<real>30.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>227</integer>
+			<key>name</key>
+			<string>Widget 227</string>
+			<key>price</key>
+			<real>32.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>228</integer>
+			<key>name</key>
+			<string>Widget 228</string>
+			<key>price</key>
+			<real>35.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>229</integer>
+			<key>name</key>
+			<string>Widget 229</string>
+			<key>price</key>
+			<real>37.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>230</integer>
+			<key>name</key>
+			<string>Widget 230</string>
+			<key>price</key>
+			<real>39.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>231</integer>
+			<key>name</key>
+			<string>Widget 231</string>
+			<key>price</key>
+			<real>42.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>232</integer>
+			<key>name</key>
+			<string>Widget 232</string>
+			<key>price</key>
+			<real>44.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>233</integer>
+			<key>name</key>
+			<string>Widget 233</string>
+			<key>price</key>
+			<real>46.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>234</integer>
+			<key>name</key>
+			<string>Widget 234</string>
+			<key>price</key>
+			<real>49.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>235</integer>
+			<key>name</key>
+			<string>Widget 235</string>
+			<key>price</key>
+			<real>51.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>236</integer>
+			<key>name</key>
+			<string>Widget 236</string>
+			<key>price</key>
+			<real>53.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>237</integer>
+			<key>name</key>
+			<string>Widget 237</string>
+			<key>price</key>
+			<real>56.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>238</integer>
+			<key>name</key>
+			<string>Widget 238</string>
+			<key>price</key>
+			<real>58.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>239</integer>
+			<key>name</key>
+			<string>Widget 239</string>
+			<key>price</key>
+			<real>60.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>240</integer>
+			<key>name</key>
+			<string>Widget 240</string>
+			<key>price</key>
+			<real>63.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>241</integer>
+			<key>name</key>
+			<string>Widget 241</string>
+			<key>price</key>
+			<real>65.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>242</integer>
+			<key>name</key>
+			<string>Widget 242</string>
+			<key>price</key>
+			<real>67.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>243</integer>
+			<key>name</key>
+			<string>Widget 243</string>
+			<key>price</key>
+			<real>70.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>244</integer>
+			<key>name</key>
+			<string>Widget 244</string>
+			<key>price</key>
+			<real>72.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>245</integer>
+			<key>name</key>
+			<string>Widget 245</string>
+			<key>price</key>
+			<real>74.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>246</integer>
+			<key>name</key>
+			<string>Widget 246</string>
+			<key>price</key>
+			<real>77.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>247</integer>
+			<key>name</key>
+			<string>Widget 247</string>
+			<key>price</key>
+			<real>79.33</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>248</integer>
+			<key>name</key>
+			<string>Widget 248</string>
+			<key>price</key>
+			<real>81.67</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>249</integer>
+			<key>name</key>
+			<string>Widget 249</string>
+			<key>price</key>
+			<real>84.0</real>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>250</integer>
+			<key>name</key>
+			<string>Widget 250</string>
+			<key>price</key>
+			<real>86.33</real>
+		</dict>
+	</array>
+	<key>Name</key>
+	<string>Sample</string>
+	<key>Version</key>
+	<string>1.0.0</string>
+</dict>
+</plist>

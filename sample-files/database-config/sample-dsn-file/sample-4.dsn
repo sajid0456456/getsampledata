@@ -1,0 +1,33 @@
+[ODBC]
+DRIVER=SQLite3
+DATABASE=sample.db
+
+[Sample DSN]
+Description=Sample ODBC data source
+Server=localhost
+Port=5432
+Attr0=value0
+Attr1=value1
+Attr2=value2
+Attr3=value3
+Attr4=value4
+Attr5=value5
+Attr6=value6
+Attr7=value7
+Attr8=value8
+Attr9=value9
+Attr10=value10
+Attr11=value11
+Attr12=value12
+Attr13=value13
+Attr14=value14
+Attr15=value15
+Attr16=value16
+Attr17=value17
+Attr18=value18
+Attr19=value19
+Attr20=value20
+Attr21=value21
+Attr22=value22
+Attr23=value23
+Attr24=value24
