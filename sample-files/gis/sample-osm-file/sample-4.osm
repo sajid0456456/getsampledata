@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="GetSampleData.com">
+  <node id="1" lat="37.422" lon="-122.084"><tag k="name" v="Location 0"/></node>
+  <node id="2" lat="37.422" lon="-122.074"><tag k="name" v="Location 1"/></node>
+  <node id="3" lat="37.422" lon="-122.06400000000001"><tag k="name" v="Location 2"/></node>
+  <node id="4" lat="37.422" lon="-122.054"><tag k="name" v="Location 3"/></node>
+  <node id="5" lat="37.422" lon="-122.044"><tag k="name" v="Location 4"/></node>
+  <node id="6" lat="37.422" lon="-122.034"><tag k="name" v="Location 5"/></node>
+  <node id="7" lat="37.422" lon="-122.024"><tag k="name" v="Location 6"/></node>
+  <node id="8" lat="37.422" lon="-122.01400000000001"><tag k="name" v="Location 7"/></node>
+  <node id="9" lat="37.422" lon="-122.004"><tag k="name" v="Location 8"/></node>
+  <node id="10" lat="37.422" lon="-121.994"><tag k="name" v="Location 9"/></node>
+  <node id="11" lat="37.422" lon="-121.98400000000001"><tag k="name" v="Location 10"/></node>
+  <node id="12" lat="37.422" lon="-121.974"><tag k="name" v="Location 11"/></node>
+  <node id="13" lat="37.422" lon="-121.964"><tag k="name" v="Location 12"/></node>
+  <node id="14" lat="37.422" lon="-121.95400000000001"><tag k="name" v="Location 13"/></node>
+  <node id="15" lat="37.422" lon="-121.944"><tag k="name" v="Location 14"/></node>
+  <node id="16" lat="37.422" lon="-121.934"><tag k="name" v="Location 15"/></node>
+  <node id="17" lat="37.422" lon="-121.924"><tag k="name" v="Location 16"/></node>
+  <node id="18" lat="37.422" lon="-121.914"><tag k="name" v="Location 17"/></node>
+  <node id="19" lat="37.422" lon="-121.904"><tag k="name" v="Location 18"/></node>
+  <node id="20" lat="37.422" lon="-121.894"><tag k="name" v="Location 19"/></node>
+  <node id="21" lat="37.422" lon="-121.884"><tag k="name" v="Location 20"/></node>
+  <node id="22" lat="37.422" lon="-121.87400000000001"><tag k="name" v="Location 21"/></node>
+  <node id="23" lat="37.422" lon="-121.864"><tag k="name" v="Location 22"/></node>
+  <node id="24" lat="37.422" lon="-121.854"><tag k="name" v="Location 23"/></node>
+  <node id="25" lat="37.422" lon="-121.84400000000001"><tag k="name" v="Location 24"/></node>
+  <node id="26" lat="37.422" lon="-121.834"><tag k="name" v="Location 25"/></node>
+  <node id="27" lat="37.422" lon="-121.824"><tag k="name" v="Location 26"/></node>
+  <node id="28" lat="37.422" lon="-121.81400000000001"><tag k="name" v="Location 27"/></node>
+  <node id="29" lat="37.422" lon="-121.804"><tag k="name" v="Location 28"/></node>
+  <node id="30" lat="37.422" lon="-121.794"><tag k="name" v="Location 29"/></node>
+  <node id="31" lat="37.422" lon="-121.784"><tag k="name" v="Location 30"/></node>
+  <node id="32" lat="37.422" lon="-121.774"><tag k="name" v="Location 31"/></node>
+  <node id="33" lat="37.422" lon="-121.76400000000001"><tag k="name" v="Location 32"/></node>
+  <node id="34" lat="37.422" lon="-121.754"><tag k="name" v="Location 33"/></node>
+  <node id="35" lat="37.422" lon="-121.744"><tag k="name" v="Location 34"/></node>
+  <node id="36" lat="37.422" lon="-121.73400000000001"><tag k="name" v="Location 35"/></node>
+  <node id="37" lat="37.422" lon="-121.724"><tag k="name" v="Location 36"/></node>
+  <node id="38" lat="37.422" lon="-121.714"><tag k="name" v="Location 37"/></node>
+  <node id="39" lat="37.422" lon="-121.70400000000001"><tag k="name" v="Location 38"/></node>
+  <node id="40" lat="37.422" lon="-121.694"><tag k="name" v="Location 39"/></node>
+</osm>

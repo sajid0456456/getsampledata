@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="GetSampleData.com">
+  <node id="1" lat="37.422" lon="-122.084"><tag k="name" v="Location 0"/></node>
+  <node id="2" lat="37.422" lon="-122.074"><tag k="name" v="Location 1"/></node>
+  <node id="3" lat="37.422" lon="-122.06400000000001"><tag k="name" v="Location 2"/></node>
+  <node id="4" lat="37.422" lon="-122.054"><tag k="name" v="Location 3"/></node>
+  <node id="5" lat="37.422" lon="-122.044"><tag k="name" v="Location 4"/></node>
+</osm>

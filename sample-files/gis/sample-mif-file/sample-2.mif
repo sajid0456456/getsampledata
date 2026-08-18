@@ -1,0 +1,17 @@
+Version 300
+Charset "WindowsLatin1"
+Delimiter ","
+Columns 1
+  NAME Char(50)
+Data
+
+Point (-122.084 37.422)
+    Symbol (34,0,10)
+Point (-122.074 37.422)
+    Symbol (34,0,10)
+Point (-122.06400000000001 37.422)
+    Symbol (34,0,10)
+Point (-122.054 37.422)
+    Symbol (34,0,10)
+Point (-122.044 37.422)
+    Symbol (34,0,10)

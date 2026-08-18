@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="GetSampleData.com">
+  <node id="1" lat="37.422" lon="-122.084"><tag k="name" v="Location 0"/></node>
+</osm>

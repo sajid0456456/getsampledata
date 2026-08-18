@@ -1,0 +1,1 @@
+{"type": "Topology", "objects": {"sample": {"type": "GeometryCollection", "geometries": [{"type": "Point", "coordinates": [-122.084, 37.422], "properties": {"name": "Location 0"}}]}}, "arcs": []}
