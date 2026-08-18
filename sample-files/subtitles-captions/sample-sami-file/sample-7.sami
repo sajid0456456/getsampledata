@@ -1,0 +1,505 @@
+<SAMI>
+<HEAD><TITLE>Sample</TITLE></HEAD>
+<BODY>
+<SYNC Start=0><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=2500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=5000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=7500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=10000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=12500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=15000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=17500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=20000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=22500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=25000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=27500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=30000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=32500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=35000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=37500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=40000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=42500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=45000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=47500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=50000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=52500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=55000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=57500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=60000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=62500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=65000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=67500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=70000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=72500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=75000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=77500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=80000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=82500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=85000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=87500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=90000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=92500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=95000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=97500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=100000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=102500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=105000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=107500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=110000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=112500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=115000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=117500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=120000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=122500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=125000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=127500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=130000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=132500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=135000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=137500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=140000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=142500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=145000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=147500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=150000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=152500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=155000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=157500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=160000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=162500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=165000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=167500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=170000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=172500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=175000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=177500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=180000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=182500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=185000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=187500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=190000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=192500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=195000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=197500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=200000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=202500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=205000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=207500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=210000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=212500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=215000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=217500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=220000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=222500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=225000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=227500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=230000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=232500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=235000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=237500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=240000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=242500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=245000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=247500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=250000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=252500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=255000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=257500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=260000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=262500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=265000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=267500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=270000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=272500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=275000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=277500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=280000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=282500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=285000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=287500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=290000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=292500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=295000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=297500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=300000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=302500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=305000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=307500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=310000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=312500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=315000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=317500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=320000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=322500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=325000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=327500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=330000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=332500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=335000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=337500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=340000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=342500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=345000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=347500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=350000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=352500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=355000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=357500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=360000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=362500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=365000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=367500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=370000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=372500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=375000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=377500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=380000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=382500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=385000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=387500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=390000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=392500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=395000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=397500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=400000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=402500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=405000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=407500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=410000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=412500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=415000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=417500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=420000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=422500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=425000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=427500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=430000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=432500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=435000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=437500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=440000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=442500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=445000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=447500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=450000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=452500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=455000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=457500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=460000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=462500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=465000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=467500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=470000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=472500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=475000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=477500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=480000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=482500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=485000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=487500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=490000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=492500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=495000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=497500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=500000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=502500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=505000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=507500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=510000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=512500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=515000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=517500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=520000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=522500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=525000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=527500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=530000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=532500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=535000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=537500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=540000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=542500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=545000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=547500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=550000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=552500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=555000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=557500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=560000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=562500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=565000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=567500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=570000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=572500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=575000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=577500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=580000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=582500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=585000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=587500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=590000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=592500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=595000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=597500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=600000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=602500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=605000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=607500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=610000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=612500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=615000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=617500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=620000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=622500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=625000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=627500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=630000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=632500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=635000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=637500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=640000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=642500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=645000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=647500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=650000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=652500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=655000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=657500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=660000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=662500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=665000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=667500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=670000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=672500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=675000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=677500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=680000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=682500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=685000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=687500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=690000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=692500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=695000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=697500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=700000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=702500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=705000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=707500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=710000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=712500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=715000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=717500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=720000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=722500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=725000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=727500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=730000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=732500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=735000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=737500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=740000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=742500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=745000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=747500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=750000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=752500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=755000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=757500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=760000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=762500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=765000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=767500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=770000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=772500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=775000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=777500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=780000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=782500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=785000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=787500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=790000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=792500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=795000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=797500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=800000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=802500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=805000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=807500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=810000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=812500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=815000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=817500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=820000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=822500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=825000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=827500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=830000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=832500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=835000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=837500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=840000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=842500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=845000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=847500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=850000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=852500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=855000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=857500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=860000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=862500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=865000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=867500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=870000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=872500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=875000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=877500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=880000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=882500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=885000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=887500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=890000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=892500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=895000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=897500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=900000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=902500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=905000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=907500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=910000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=912500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=915000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=917500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=920000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=922500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=925000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=927500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=930000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=932500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=935000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=937500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=940000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=942500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=945000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=947500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=950000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=952500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=955000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=957500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=960000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=962500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=965000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=967500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=970000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=972500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=975000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=977500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=980000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=982500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=985000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=987500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=990000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=992500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=995000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=997500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=1000000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=1002500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=1005000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=1007500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=1010000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=1012500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=1015000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=1017500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=1020000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=1022500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=1025000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=1027500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=1030000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=1032500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=1035000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=1037500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=1040000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=1042500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=1045000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=1047500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=1050000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=1052500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=1055000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=1057500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=1060000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=1062500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=1065000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=1067500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=1070000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=1072500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=1075000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=1077500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=1080000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=1082500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=1085000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=1087500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=1090000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=1092500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=1095000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=1097500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=1100000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=1102500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=1105000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=1107500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=1110000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=1112500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=1115000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=1117500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=1120000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=1122500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=1125000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=1127500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=1130000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=1132500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=1135000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=1137500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=1140000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=1142500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=1145000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=1147500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=1150000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=1152500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=1155000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=1157500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=1160000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=1162500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=1165000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=1167500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=1170000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=1172500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=1175000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=1177500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=1180000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=1182500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=1185000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=1187500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=1190000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=1192500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=1195000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=1197500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=1200000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=1202500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=1205000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=1207500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=1210000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=1212500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=1215000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=1217500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+<SYNC Start=1220000><P Class=ENCC>Nam libero tempore, cum soluta nobis est eligendi optio cumq
+<SYNC Start=1222500><P Class=ENCC>Temporibus autem quibusdam et aut officiis debitis aut rerum
+<SYNC Start=1225000><P Class=ENCC>Itaque earum rerum hic tenetur a sapiente delectus, ut aut r
+<SYNC Start=1227500><P Class=ENCC>GetSampleData.com provides free sample files for development
+<SYNC Start=1230000><P Class=ENCC>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+<SYNC Start=1232500><P Class=ENCC>Sed do eiusmod tempor incididunt ut labore et dolore magna a
+<SYNC Start=1235000><P Class=ENCC>Ut enim ad minim veniam, quis nostrud exercitation ullamco l
+<SYNC Start=1237500><P Class=ENCC>Duis aute irure dolor in reprehenderit in voluptate velit es
+<SYNC Start=1240000><P Class=ENCC>Excepteur sint occaecat cupidatat non proident, sunt in culp
+<SYNC Start=1242500><P Class=ENCC>Officia deserunt mollit anim id est laborum et dolore magnam
+<SYNC Start=1245000><P Class=ENCC>At vero eos et accusamus et iusto odio dignissimos ducimus q
+<SYNC Start=1247500><P Class=ENCC>Blanditiis praesentium voluptatum deleniti atque corrupti qu
+</BODY>
+</SAMI>

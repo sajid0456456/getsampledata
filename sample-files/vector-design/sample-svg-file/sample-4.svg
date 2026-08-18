@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+<rect x="0" y="0" width="400" height="300" fill="white"/>
+<circle cx="120" cy="155" r="3" fill="#caf54f" fill-opacity="0.6"/>
+<circle cx="46" cy="34" r="2" fill="#cd941e" fill-opacity="0.6"/>
+<circle cx="113" cy="266" r="10" fill="#b88d58" fill-opacity="0.6"/>
+<circle cx="54" cy="134" r="5" fill="#0d858b" fill-opacity="0.6"/>
+<circle cx="99" cy="84" r="6" fill="#94be2c" fill-opacity="0.6"/>
+<circle cx="310" cy="172" r="12" fill="#c67f5b" fill-opacity="0.6"/>
+<circle cx="126" cy="242" r="6" fill="#2d9903" fill-opacity="0.6"/>
+<circle cx="149" cy="293" r="13" fill="#9f63d3" fill-opacity="0.6"/>
+<circle cx="216" cy="147" r="8" fill="#e75277" fill-opacity="0.6"/>
+<circle cx="156" cy="132" r="15" fill="#162917" fill-opacity="0.6"/>
+<circle cx="236" cy="143" r="10" fill="#f1af4a" fill-opacity="0.6"/>
+<circle cx="344" cy="100" r="3" fill="#d367e1" fill-opacity="0.6"/>
+<circle cx="141" cy="94" r="7" fill="#dfa465" fill-opacity="0.6"/>
+<circle cx="165" cy="51" r="15" fill="#1f758e" fill-opacity="0.6"/>
+<circle cx="391" cy="298" r="11" fill="#793ea9" fill-opacity="0.6"/>
+<circle cx="90" cy="148" r="9" fill="#0d15b6" fill-opacity="0.6"/>
+<circle cx="357" cy="42" r="6" fill="#a709a5" fill-opacity="0.6"/>
+<circle cx="147" cy="164" r="4" fill="#d22796" fill-opacity="0.6"/>
+<circle cx="316" cy="98" r="9" fill="#954580" fill-opacity="0.6"/>
+<circle cx="195" cy="81" r="7" fill="#04ba16" fill-opacity="0.6"/>
+<circle cx="232" cy="86" r="7" fill="#b99431" fill-opacity="0.6"/>
+<circle cx="224" cy="106" r="8" fill="#6a3a1e" fill-opacity="0.6"/>
+<circle cx="31" cy="28" r="13" fill="#564c14" fill-opacity="0.6"/>
+<circle cx="279" cy="251" r="11" fill="#7fa412" fill-opacity="0.6"/>
+<circle cx="62" cy="270" r="6" fill="#d166f4" fill-opacity="0.6"/>
+<circle cx="103" cy="123" r="9" fill="#d2fb12" fill-opacity="0.6"/>
+<circle cx="112" cy="215" r="9" fill="#7fdb6e" fill-opacity="0.6"/>
+<circle cx="255" cy="96" r="2" fill="#128281" fill-opacity="0.6"/>
+<circle cx="124" cy="269" r="5" fill="#76d585" fill-opacity="0.6"/>
+<circle cx="72" cy="166" r="2" fill="#a13bce" fill-opacity="0.6"/>
+<circle cx="334" cy="20" r="9" fill="#c62fdc" fill-opacity="0.6"/>
+<circle cx="107" cy="293" r="4" fill="#ac97f1" fill-opacity="0.6"/>
+<circle cx="328" cy="161" r="15" fill="#d76e89" fill-opacity="0.6"/>
+<circle cx="173" cy="200" r="9" fill="#268f61" fill-opacity="0.6"/>
+<circle cx="22" cy="202" r="11" fill="#41891e" fill-opacity="0.6"/>
+<circle cx="85" cy="237" r="11" fill="#f1cec7" fill-opacity="0.6"/>
+<circle cx="111" cy="1" r="5" fill="#500683" fill-opacity="0.6"/>
+<circle cx="59" cy="202" r="14" fill="#c3711b" fill-opacity="0.6"/>
+<circle cx="103" cy="82" r="12" fill="#a9f1e1" fill-opacity="0.6"/>
+<circle cx="13" cy="40" r="2" fill="#39fa83" fill-opacity="0.6"/>
+<circle cx="311" cy="71" r="2" fill="#b92805" fill-opacity="0.6"/>
+<circle cx="152" cy="177" r="15" fill="#262be8" fill-opacity="0.6"/>
+<circle cx="195" cy="105" r="14" fill="#9fc677" fill-opacity="0.6"/>
+<circle cx="388" cy="249" r="15" fill="#cc3027" fill-opacity="0.6"/>
+<circle cx="58" cy="187" r="10" fill="#ded4e3" fill-opacity="0.6"/>
+<circle cx="34" cy="100" r="12" fill="#9af5d8" fill-opacity="0.6"/>
+<circle cx="60" cy="285" r="4" fill="#be535a" fill-opacity="0.6"/>
+<circle cx="361" cy="76" r="7" fill="#fdad84" fill-opacity="0.6"/>
+<circle cx="277" cy="2" r="13" fill="#56029f" fill-opacity="0.6"/>
+<circle cx="61" cy="279" r="3" fill="#f9f726" fill-opacity="0.6"/>
+<text x="100" y="290" font-family="sans-serif" font-size="12">GetSampleData.com</text>
+</svg>
